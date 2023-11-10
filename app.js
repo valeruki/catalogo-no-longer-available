@@ -48,7 +48,7 @@ const loadCatalog = (data) => {
             cloneTemplate.querySelector('.card__img__container').innerHTML += `<img loading="lazy" class="card__img" src="./images/${data[i].image[j]}" alt="VALERUKI">`
         }
         
-        cloneTemplate.querySelector('.card').setAttribute('href', `https://daedsoft.github.io/VALERUKI_CATALOG/item.html?id=${data[i].id}`)
+        cloneTemplate.querySelector('.card').setAttribute('href', `https://valeruki.github.io/catalogo/item.html?id=${data[i].id}`)
         cloneTemplate.querySelector('.card__title').textContent =  data[i].title
         cloneTemplate.querySelector('.card__main-info__cat').textContent = categories.filter(c => c.id == data[i].category)[0].name 
         cloneTemplate.querySelector('.card__main-info__price').textContent = data[i].price        
