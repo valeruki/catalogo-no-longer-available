@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Reem+Kufi:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="shortcut icon" href="./assets/favicon.svg" type="image/x-icon">
+
+    <script src="./data.js"></script>
+    
+    <title>Producto en Catálogo VALERUKI</title>
+</head>
+<body>
+    <div class="container">
+        <div class="flex-box">
+            <a  class='back' href='https://daedsoft.github.io/VALERUKI_CATALOG/'><img class="rotate" src="./assets/icon_angle.png"> Volver al Catálogo</a>
+            <button class='back' type='button' id="copyLink"><img src='./assets/icon_copy.svg' alt='' style="margin-right: 8px;"> Copiar enlace</button>
+        </div>        
+
+        <div id="productContainer">
+            <div id="imagesContainer"></div>            
+            
+        </div>   
+    </div>
+</body>
+</html>
+
+<script>
+    const url = new URL(window.location.href)
+    const params = url.searchParams
+    params.get('id')
+    let product = catalog.filter(item => item.id == params.get('id'))
+    const productContainer = document.querySelector('#productContainer')
+    const imagesContainer = document.querySelector('#imagesContainer')
+
+    if (product.length > 0){
+        for (x = 0; x < product[0].image.length; x++){
+            imagesContainer.innerHTML += `<img class='card__img__item' src='./images/${product[0].image[x]}' alt=''>`            
+        }
+        productContainer.innerHTML += `        
+        <h3>${product[0].title}</h3>
+        <h4 class="card__main-info__cat">${categories.filter(c => c.id == product[0].category)[0].name} ${categories.filter(c => c.id == product[0].category)[0].group}</h4>
+        <h4 class="card__main-info__price">${product[0].price}</h4>
+        <a  href='https://wa.me/573001661362?text=Estoy interesada en este accesorio: https://daedsoft.github.io/VALERUKI_CATALOG/item.html?id=${product[0].id}' target='_blank' class='btn wa'><div class='wa-left'><img src='./assets/icon_wa.svg' alt=''></div><div class='wa-right'>Me interesa esta joya</div></a>                                
+        <br>
+        <p>${intro}</p>
+        <p>${product[0].description}</p>
+        <br>
+        <details>
+            <summary><b>Cuidados y Recomendaciones</b></summary>
+            ${cuidados}
+        </details>
+    `    
+    }else{
+        productContainer.innerHTML = "<h2>Sin información.</h2>"
+    }
+
+    const btnCopyLink = document.querySelector('#copyLink')
+
+    btnCopyLink.addEventListener('click', () => {
+        navigator.clipboard.writeText(url)
+        btnCopyLink.innerHTML = "<img src='./assets/icon_check.svg' alt=''> <span style='margin-right:12px;'> </span>Copiado"
+    })
+    
+</script>
