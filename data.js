@@ -62,7 +62,7 @@ catalog = [
     "keywords": "PULSERA CON ORO 18 KT",
     "category": 1, 
     "price" : "$52.000", 
-    "image": ["005-01.jpg", "005-02.jpg"],
+    "image": ["005-01.png", "005-02.png"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Un (1) balin de oro 18 quilates tamaño N°4mm."}, 
 
     {"id": "006", 
