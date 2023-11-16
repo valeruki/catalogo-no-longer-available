@@ -142,7 +142,7 @@ catalog = [
     "keywords": "PULSERA COLORIDA CON ORO 18 KT COLORINCHE",
     "category": 1, 
     "price" : "$80.000", 
-    "image": ["015-01.jpg", "015-02.jpg"],
+    "image": ["015-01.jpg", "015-02.png"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano.<br>Tres (3) balines de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "016", 
