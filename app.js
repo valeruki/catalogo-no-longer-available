@@ -66,7 +66,7 @@ const loadCatalog = (data) => {
 const searchInCatalog = () => {
     let getSearch = searchInput.value
     let expression = new RegExp(`${getSearch}.*`, 'i')
-    const catalogFiltered = catalog.filter(item => expression.test(item.title))     
+    const catalogFiltered = catalog.filter(item => expression.test(item.keywords))     
     loadCatalog(catalogFiltered)
 }
 

@@ -14,7 +14,7 @@
 
     <script src="./data.js"></script>
     
-    <title>Producto en Catálogo VALERUKI</title>
+    <title>Joya tejida a mano - VALERUKI</title>
 </head>
 <body>
     <div class="container">
@@ -51,11 +51,21 @@
         <br>
         <p>${intro}</p>
         <p>${product[0].description}</p>
+
         <br>
         <details>
-            <summary><b>Cuidados y Recomendaciones</b></summary>
+            <summary><b>Información de envío</b></summary>    
+            <p>Esta joya es tejida a mano y su elaboración puede tardar de 3 a 4 días hábiles aproximadamente. Si contamos con existencias podrás recibirla en un menor tiempo.</p>
+            <p>Realizamos envios nacionales y locales en la ciudad de Sincelejo - Sucre. El valor del servicio de envío dependerá de la ciudad y/o barrio destino.</p>
+        </details>
+
+        <br>
+        <details>
+            <summary><b>Cuidados y recomendaciones</b></summary>
             ${cuidados}
         </details>
+
+        <br>
     `    
     }else{
         productContainer.innerHTML = "<h2>Sin información.</h2>"
