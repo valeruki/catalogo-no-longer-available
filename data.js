@@ -577,12 +577,12 @@ catalog = [
     "image": ["069-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
-    {"id": "041", 
+    {"id": "070", 
     "title": " PULSERA CON ORO 18 KT", 
     "keywords": " PULSERA CON ORO 18 KT balin oro",
     "category": 1, 
     "price" : "$40.000", 
-    "image": ["071-01.jpg"],
+    "image": ["070-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Un(1) balin de oro 18 quilates tamaño N3mm."}, 
 
 ]
