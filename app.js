@@ -12,6 +12,8 @@ const closeFilterBtn = document.querySelector('#closeFilterBtn')
 const filterGroupDama = document.querySelector('#groupDama')
 const filterGroupCaballero = document.querySelector('#groupCaballero')
 const filterGroupInfantil = document.querySelector('#groupInfantil')
+const plus1 = document.querySelector('#plus1')
+const plus2 = document.querySelector('#plus2')
 
 // load filter options ********************************************
 
@@ -25,6 +27,12 @@ categories.map((i) => {
     if (i.group == "Infantil"){
         filterGroupInfantil.innerHTML += `<p class="filter__item" data-id=${i.id}>${i.name}</p>`        
     }   
+    if (i.group == "Cajas de regalo"){
+        plus1.innerHTML = `<p class="filter__item mb-fix" data-id=${i.id}>${i.name}</p>`        
+    }
+    if (i.group == "Joyas para compartir"){
+        plus2.innerHTML = `<p class="filter__item mb-fix" data-id=${i.id}>${i.name}</p>`        
+    }
 })
 
 // Functions ****************************************************
