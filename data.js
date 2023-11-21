@@ -1044,7 +1044,7 @@ catalog = [
     {"id": "127", 
     "title": "PULSERA", 
     "keywords": "PULSERA biscolata",
-    "category": 1, 
+    "category": 7, 
     "price" : "$25.000", 
     "image": ["127-01.jpg", "127-02.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
