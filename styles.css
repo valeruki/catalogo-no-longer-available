@@ -203,7 +203,7 @@ body{
 }
 
 .filter__item{
-    margin: 10px 0;
+    margin: 16px 0;
     font-size: 18px;
     font-weight: 400;
 }
@@ -321,4 +321,8 @@ small {
     width: 100%;
     text-align: right;
     font-size: 10px;
+}
+
+.mb-fix{
+    margin-bottom: 24px !important;
 }
