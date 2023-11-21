@@ -290,6 +290,11 @@ body{
     gap: 5px;
     overflow-y: auto;
     margin-bottom: 10px;
+    height: 360px;
+}
+
+#imagesContainer > img{
+    object-fit: cover;
 }
 
 .rotate{
@@ -307,3 +312,13 @@ details > summary {
     margin-bottom: 5px;
 }
 
+.sans-serif{
+    font-family: sans-serif !important;
+}
+
+small {
+    display: block;
+    width: 100%;
+    text-align: right;
+    font-size: 10px;
+}

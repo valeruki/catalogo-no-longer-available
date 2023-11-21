@@ -385,6 +385,7 @@ catalog = [
     "image": ["045-01.jpg", "045-02.jpg"],
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
+    /*
     {"id": "046", 
     "title": "SET DE PULSERAS CON ORO 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT ZIGZAG PEYOTE",
@@ -392,6 +393,7 @@ catalog = [
     "price" : "$160.000", 
     "image": ["046-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo.<br>Hilo encerado. <br>Cinco (5) balines de oro 18 quilates tamaño N3mm."}, 
+    */
 
     {"id": "047", 
     "title": "SET DE PULSERAS CON ORO 18 KT", 
@@ -441,6 +443,7 @@ catalog = [
     "image": ["052-01.jpg", "052-02.jpg", "052-03.jpg", "052-04.jpg"],
     "description": "Se realiza a la medida del cliente. <br><br><b>Materiales:</b><br>Mostacilla japonesa."}, 
 
+    /*
     {"id": "053", 
     "title": "PULSERA RELIGIOSA", 
     "keywords": "PULSERA RELIGIOSA DIJE VIRGEN GUADALUPE GUADALUPANA",
@@ -448,6 +451,7 @@ catalog = [
     "price" : "$40.000", 
     "image": ["053-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo."}, 
+    */
     
     {"id": "054", 
     "title": "COLLAR ESCAPULARIO", 
@@ -526,7 +530,7 @@ catalog = [
     "keywords": "COLLAR CHOKER INICIAL CON ORO LAMINADO dije letra",
     "category": 2, 
     "price" : "$35.000", 
-    "image": ["063-01.jpg", "063-02.jpg"],
+    "image": ["063-01.jpg"],
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Sistema de cierre con herrajes de acero dorado. <br>Medida aproximada del collar entre 35 a 37 cm, con extensión de cadena. <br>Letra inicial de nácar. <br>Dos (2) Balines de oro laminado tamaño N3mm."}, 
 
     {"id": "064", 
@@ -687,7 +691,7 @@ catalog = [
     "category": 1, 
     "price" : "$37.000", 
     "image": ["083-01.jpg", "083-02.jpg", "083-03.jpg", "083-04.jpg", "083-05.jpg"],
-    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b>Mostacilla japonesa.<br>Hilo encerado."}, 
+    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "084", 
     "title": "TOBILLERA", 
