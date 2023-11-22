@@ -47,21 +47,29 @@
         <h4 class="card__main-info__cat">${categories.filter(c => c.id == product[0].category)[0].name} ${categories.filter(c => c.id == product[0].category)[0].group}</h4>
         <h4 class="sans-serif">${product[0].price}</h4>
         <a  href='https://wa.me/573001661362?text=Estoy interesada en este accesorio: https://valeruki.github.io/catalogo/item.html?id=${product[0].id}' target='_blank' class='btn wa'><div class='wa-left'><img src='./assets/icon_wa.svg' alt=''></div><div class='wa-right'>Me interesa esta joya</div></a>                                
-        <br>
-        <p>${intro}</p>
+        <br>        
+        <p class="c-gray">Joyas tejidas a mano por artesanos de la ciudad de Sincelejo - Sucre.</p><br>
+
         <p>${product[0].description}</p>
 
         <br>
         <details>
             <summary><b>Información de envío</b></summary>    
             <p>Esta joya es tejida a mano y su elaboración puede tardar de 3 a 4 días hábiles aproximadamente. Si contamos con existencias podrás recibirla en un menor tiempo.</p>
-            <p>Realizamos envios nacionales y locales en la ciudad de Sincelejo - Sucre. El valor del servicio de envío dependerá de la ciudad y/o barrio destino.</p>
+            <p>Realizamos envíos nacionales y locales en la ciudad de Sincelejo - Sucre. El valor del servicio de envío dependerá de la ciudad y/o barrio destino.</p>
         </details>
 
         <br>
         <details>
             <summary><b>Cuidados y recomendaciones</b></summary>
-            ${cuidados}
+            <ul class='list'>    
+                <li>Evita el contacto con productos químicos o de aseo en general.</li>
+                <li>Las cremas, el perfume y el agua pueden alterar su color original.</li>
+                <li>Evita golpear tu joya.</li>
+                <li>No la uses para bañarte en piscinas o en el mar. </li>
+                <li>Guárdala por separado para evitar desgaste o enredos por roce con otros accesorios.</li>
+                <li>Lava tus manos antes de colocarte y quitarte las pulseras.</li>
+            </ul>    
         </details>
 
         <br>

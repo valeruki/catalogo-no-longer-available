@@ -1,24 +1,10 @@
-intro = `<p class="c-gray">Joyas tejidas a mano por artesanos de la ciudad de Sincelejo - Sucre.</p><br>`
-
-cuidados = `    
-    <ul class='list'>    
-        <li>Evita el contacto con productos químicos o de aseo en general.</li>
-        <li>Las cremas, el perfume y el agua pueden alterar su color original.</li>
-        <li>Evita golpear tu joya.</li>
-        <li>No la uses para bañarte en piscinas o en el mar. </li>
-        <li>Guárdala por separado para evitar desgaste o enredos por roce con otros accesorios.</li>
-        <li>Lava tus manos antes de colocarte y quitarte las pulseras.</li>
-    </ul>    
-    
-`
-
 categories = [
     {"id": 1, "group": "Dama", "name": "Pulsera"},
     {"id": 2, "group": "Dama", "name": "Collar"},
     {"id": 3, "group": "Dama", "name": "Aretes"},
     {"id": 4, "group": "Dama", "name": "Tobillera"},
     {"id": 5, "group": "Dama", "name": "Anillo"},
-    {"id": 6, "group": "Dama", "name": "Dije"},    
+    /*{"id": 6, "group": "Dama", "name": "Dije"},*/
     {"id": 7, "group": "Caballero", "name": "Pulsera"},
     {"id": 8, "group": "Infantil", "name": "Pulsera"},
     {"id": 9, "group": "Cajas de regalo", "name": "CAJAS DE REGALO"},
@@ -997,7 +983,7 @@ catalog = [
     "title": "PULSERA", 
     "keywords": "PULSERA PEYOTE PULSERA ANCHA DROPS GOTAS",
     "category": 1, 
-    "price" : "$62.000", 
+    "price" : "$65.000", 
     "image": ["121-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
     
