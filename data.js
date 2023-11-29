@@ -517,7 +517,7 @@ catalog = [
     "title": "CHOKER INICIAL CON ORO LAMINADO", 
     "keywords": "COLLAR CHOKER INICIAL CON ORO LAMINADO dije letra",
     "category": 2, 
-    "price" : "$35.000", 
+    "price" : "$30.000", 
     "image": ["063-01.jpg"],
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Sistema de cierre con herrajes de acero dorado. <br>Medida aproximada del collar entre 35 a 37 cm, con extensión de cadena. <br>Letra inicial de nácar. <br>Dos (2) Balines de oro laminado tamaño N3mm."}, 
 
