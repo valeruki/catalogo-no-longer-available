@@ -1139,6 +1139,22 @@ catalog = [
     "image": ["140-01.jpg"],
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Sistema de cierre con herrajes de acero dorado.<br>Medida aproximada del collar entre 35 a 37 cm, con extensión de cadena."}, 
 
+    {"id": "141", 
+    "title": "SET DE PULSERAS", 
+    "keywords": "SET DE PULSERAS PULSERAS ROJA CORAZON",
+    "category": 1, 
+    "price" : "$48.000", 
+    "image": ["141-01.jpg"],
+    "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
+
+    {"id": "142", 
+    "title": "PULSERA SAGRADO CORAZÓN", 
+    "keywords": "PULSERA SAGRADO CORAZÓN PLACA",
+    "category": 1, 
+    "price" : "$35.000", 
+    "image": ["142-01.jpg"],
+    "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano. <br>Hilos brillantes"}, 
+
 ]
 
 /*
