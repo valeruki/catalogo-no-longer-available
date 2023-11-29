@@ -1131,6 +1131,14 @@ catalog = [
     "image": ["139-01.jpg", "139-02.jpg", "139-03.jpg", "139-04.jpg"],
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
+    {"id": "140", 
+    "title": "COLLAR CHOKER SAGRADO CORAZÓN", 
+    "keywords": "COLLAR CHOKER SAGRADO CORAZON",
+    "category": 2, 
+    "price" : "$35.000", 
+    "image": ["140-01.jpg"],
+    "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Sistema de cierre con herrajes de acero dorado.<br>Medida aproximada del collar entre 35 a 37 cm, con extensión de cadena."}, 
+
 ]
 
 /*
