@@ -19,7 +19,8 @@
 <body>
     <div class="container">        
         <div id="productContainer">
-            <div class="relative" id="imagesContainer"></div>                
+            <div class="relative" id="smallId"></div>                
+            <div id="imagesContainer"></div>
         </div>   
     </div>
 </body>
@@ -32,12 +33,13 @@
     let product = catalog.filter(item => item.id == params.get('id'))
     const productContainer = document.querySelector('#productContainer')
     const imagesContainer = document.querySelector('#imagesContainer')
+    const smallId = document.querySelector('#smallId')
 
     if (product.length > 0){
-        imagesContainer.innerHTML = `<small class="small-id">${product[0].id}</small>`
         for (x = 0; x < product[0].image.length; x++){
             imagesContainer.innerHTML += `<img class='card__img__item' src='./images/${product[0].image[x]}' alt=''>`            
         }
+        smallId.innerHTML = `<small class="small-id">${product[0].id}</small>`
         productContainer.innerHTML += `        
         <h3>${product[0].title}</h3>
         <h4 class="card__main-info__cat">${categories.filter(c => c.id == product[0].category)[0].name} ${categories.filter(c => c.id == product[0].category)[0].group}</h4>
@@ -71,7 +73,6 @@
         </details>
 
         <br>
-
        
     `    
     }else{
