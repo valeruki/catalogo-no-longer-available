@@ -15,7 +15,7 @@ catalog = [
 
     {"id": "001", 
     "title": "SET DE PULSERAS CON ORO DE 18 KT", 
-    "keywords": "SET DE PULSERAS CON ORO DE 18 KT",
+    "keywords": "SET DE PULSERAS CON ORO DE 18 KT 001",
     "category": 1, 
     "price" : "$53.000", 
     "image": ["001-01.jpg", "001-02.jpg", "001-03.jpg"],
@@ -23,7 +23,7 @@ catalog = [
    
     {"id": "002", 
     "title": "PULSERA CON ORO 18 KT", 
-    "keywords": "PULSERA CON ORO 18 KT",
+    "keywords": "PULSERA CON ORO 18 KT 002",
     "category": 1, 
     "price" : "$40.000", 
     "image": ["002-01.png", "002-02.jpg"],
@@ -31,7 +31,7 @@ catalog = [
 
     {"id": "003", 
     "title": "SET DE PULSERAS CON ORO DE 18 KT", 
-    "keywords": "SET DE PULSERAS CON ORO DE 18 KT",
+    "keywords": "SET DE PULSERAS CON ORO DE 18 KT 003",
     "category": 1, 
     "price" : "$82.000", 
     "image": ["003-01.jpg", "003-02.jpg"],
@@ -39,7 +39,7 @@ catalog = [
 
     {"id": "004", 
     "title": "SET DE PULSERAS CON ORO DE 18 KT", 
-    "keywords": "SET DE PULSERAS CON ORO DE 18 KT",
+    "keywords": "SET DE PULSERAS CON ORO DE 18 KT 004",
     "category": 1, 
     "price" : "$65.000", 
     "image": ["004-01.jpg"],
@@ -47,7 +47,7 @@ catalog = [
 
     {"id": "005", 
     "title": "PULSERA CON ORO 18 KT", 
-    "keywords": "PULSERA CON ORO 18 KT",
+    "keywords": "PULSERA CON ORO 18 KT 005",
     "category": 1, 
     "price" : "$52.000", 
     "image": ["005-01.png", "005-02.png"],
@@ -55,7 +55,7 @@ catalog = [
 
     {"id": "006", 
     "title": "SET DE PULSERAS CON ORO DE 18 KT", 
-    "keywords": "SET DE PULSERAS CON ORO DE 18 KT",
+    "keywords": "SET DE PULSERAS CON ORO DE 18 KT 006",
     "category": 1, 
     "price" : "$110.000", 
     "image": ["006-01.jpg"],
@@ -63,7 +63,7 @@ catalog = [
 
     {"id": "007", 
     "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS DIJE CRUZ",
+    "keywords": "SET DE PULSERAS DIJE CRUZ 007",
     "category": 1, 
     "price" : "$36.000", 
     "image": ["007-01.jpg"],
@@ -71,7 +71,7 @@ catalog = [
 
     {"id": "008", 
     "title": "PULSERA", 
-    "keywords": "PULSERA DIJE MANO OJO",
+    "keywords": "PULSERA DIJE MANO OJO 008",
     "category": 1, 
     "price" : "$35.000", 
     "image": ["008-01.jpg"],
@@ -79,7 +79,7 @@ catalog = [
     
     {"id": "009", 
     "title": "SET DE PULSERAS CON ORO 18 KT", 
-    "keywords": "SET DE PULSERAS CON ORO 18 KT CORAZON PEYOTE 5 BALINES",
+    "keywords": "SET DE PULSERAS CON ORO 18 KT CORAZON PEYOTE 5 BALINES 009",
     "category": 1, 
     "price" : "$218.000", 
     "image": ["009-01.jpg"],
@@ -87,7 +87,7 @@ catalog = [
 
     {"id": "010", 
     "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS DIJE CRUZ SAGRADO CORAZON",
+    "keywords": "SET DE PULSERAS DIJE CRUZ SAGRADO CORAZON 010",
     "category": 1, 
     "price" : "$43.000", 
     "image": ["010-01.jpg", "010-02.jpg"],
@@ -95,7 +95,7 @@ catalog = [
 
     {"id": "011", 
     "title": "TOBILLERA CON ORO 18 KT", 
-    "keywords": "TOBILLERA CON ORO 18 KT MARIPOSA FUCSIA AZUL",
+    "keywords": "TOBILLERA CON ORO 18 KT MARIPOSA FUCSIA AZUL 011",
     "category": 4, 
     "price" : "$115.000", 
     "image": ["011-01.jpg"],
@@ -103,7 +103,7 @@ catalog = [
 
     {"id": "012", 
     "title": "SET DE PULSERAS CON ORO 18 KT", 
-    "keywords": "SET DE PULSERAS CON ORO 18 KT CORAZON",
+    "keywords": "SET DE PULSERAS CON ORO 18 KT CORAZON 012",
     "category": 1, 
     "price" : "$81.000", 
     "image": ["012-01.jpg"],
@@ -111,7 +111,7 @@ catalog = [
 
     {"id": "013", 
     "title": "SET DE PULSERAS CON ORO 18 KT",
-    "keywords": "SET DE PULSERAS CON ORO 18 KT", 
+    "keywords": "SET DE PULSERAS CON ORO 18 KT 013", 
     "category": 1, 
     "price" : "$279.000", 
     "image": ["013-01.jpg"],
@@ -119,7 +119,7 @@ catalog = [
 
     {"id": "014", 
     "title": "SET DE PULSERAS CON ORO 18 KT", 
-    "keywords": "SET DE PULSERAS CON ORO 18 KT CORAZON",
+    "keywords": "SET DE PULSERAS CON ORO 18 KT CORAZON 014",
     "category": 1, 
     "price" : "$98.000", 
     "image": ["014-01.jpg"],
@@ -127,7 +127,7 @@ catalog = [
 
     {"id": "015", 
     "title": "PULSERA CON ORO 18 KT", 
-    "keywords": "PULSERA COLORIDA CON ORO 18 KT COLORINCHE",
+    "keywords": "PULSERA COLORIDA CON ORO 18 KT COLORINCHE 015",
     "category": 1, 
     "price" : "$80.000", 
     "image": ["015-01.jpg", "015-02.png"],
@@ -135,7 +135,7 @@ catalog = [
 
     {"id": "016", 
     "title": "SET DE PULSERAS CON ORO 18 KT", 
-    "keywords": "SET DE PULSERAS CON ORO 18 KT",
+    "keywords": "SET DE PULSERAS CON ORO 18 KT 016",
     "category": 1, 
     "price" : "$93.000", 
     "image": ["016-01.jpg", "016-02.jpg"],
@@ -143,7 +143,7 @@ catalog = [
 
     {"id": "017", 
     "title": "PULSERA CON ORO 18 KT", 
-    "keywords": "PULSERA CON ORO 18 KT TEJIDO HILO ENCERADO ROJO",
+    "keywords": "PULSERA CON ORO 18 KT TEJIDO HILO ENCERADO ROJO 017",
     "category": 1, 
     "price" : "$80.000", 
     "image": ["017-01.jpg"],
@@ -151,7 +151,7 @@ catalog = [
 
     {"id": "018", 
     "title": "SET DE PULSERAS CON ORO 18 KT", 
-    "keywords": "SET DE PULSERAS CON ORO 18 KT",
+    "keywords": "SET DE PULSERAS CON ORO 18 KT 018",
     "category": 1, 
     "price" : "$83.000", 
     "image": ["018-01.jpg"],
@@ -159,7 +159,7 @@ catalog = [
 
     {"id": "019", 
     "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS PEYOTE COLORES VIBRANTES NARANJA",
+    "keywords": "SET DE PULSERAS PEYOTE COLORES VIBRANTES NARANJA 019",
     "category": 1, 
     "price" : "$45.000", 
     "image": ["019-01.jpg", "019-02.jpg", "019-03.jpg"],
@@ -167,7 +167,7 @@ catalog = [
 
     {"id": "020", 
     "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS PEYOTE ROJO TILA ROJA",
+    "keywords": "SET DE PULSERAS PEYOTE ROJO TILA ROJA 020",
     "category": 1, 
     "price" : "$40.000", 
     "image": ["020-01.jpg"],
@@ -175,7 +175,7 @@ catalog = [
 
     {"id": "021", 
     "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS",
+    "keywords": "SET DE PULSERAS 021",
     "category": 1, 
     "price" : "$36.000", 
     "image": ["021-01.jpg", "021-02.jpg", "021-03.jpg"],
@@ -183,7 +183,7 @@ catalog = [
 
     {"id": "022", 
     "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS MORADO LILA CORAZON",
+    "keywords": "SET DE PULSERAS MORADO LILA CORAZON 022",
     "category": 1, 
     "price" : "$41.000", 
     "image": ["022-01.jpg", "022-02.jpg", "022-03.jpg"],
@@ -191,7 +191,7 @@ catalog = [
 
     {"id": "023", 
     "title": "PULSERA CORAZÓN", 
-    "keywords": "PULSERA CORAZÓN OSCURA LILA MORADO",
+    "keywords": "PULSERA CORAZÓN OSCURA LILA MORADO 023",
     "category": 1, 
     "price" : "$25.000", 
     "image": ["023-01.jpg", "023-02.jpg", "023-03.jpg"],
@@ -199,7 +199,7 @@ catalog = [
 
     {"id": "024", 
     "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS PERLA ENFILADA PEYOTE",
+    "keywords": "SET DE PULSERAS PERLA ENFILADA PEYOTE 024",
     "category": 1, 
     "price" : "$45.000", 
     "image": ["024-01.jpg", "024-02.jpg"],
@@ -207,7 +207,7 @@ catalog = [
 
     {"id": "025", 
     "title": "PULSERA", 
-    "keywords": "PULSERA DROPS LAGRIMAS PEYOTE",
+    "keywords": "PULSERA DROPS LAGRIMAS PEYOTE 025",
     "category": 1, 
     "price" : "$35.000", 
     "image": ["025-01.jpg", "025-02.jpg"],
@@ -215,7 +215,7 @@ catalog = [
 
     {"id": "026", 
     "title": "PULSERA CORAZONES", 
-    "keywords": "PULSERA CORAZONES TRES 3",
+    "keywords": "PULSERA CORAZONES TRES 3 026",
     "category": 1, 
     "price" : "$26.000", 
     "image": ["026-01.jpg", "026-02.jpg", "026-03.jpg", "026-04.jpg", "026-05.jpg"],
@@ -223,7 +223,7 @@ catalog = [
 
     {"id": "027", 
     "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS SWAROSKI TILA LILA ENFILADA",
+    "keywords": "SET DE PULSERAS SWAROSKI TILA LILA ENFILADA 027",
     "category": 1, 
     "price" : "$48.000", 
     "image": ["027-01.jpg"],
@@ -231,7 +231,7 @@ catalog = [
 
     {"id": "028", 
     "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS TELAR NUDE",
+    "keywords": "SET DE PULSERAS TELAR NUDE 028",
     "category": 1, 
     "price" : "$61.000", 
     "image": ["028-01.jpg"],
@@ -239,7 +239,7 @@ catalog = [
 
     {"id": "029", 
     "title": "PULSERAS", 
-    "keywords": "PULSERA COLORIDA COLORINCHE 1 FILA",
+    "keywords": "PULSERA COLORIDA COLORINCHE 1 FILA 029",
     "category": 1, 
     "price" : "$15.000", 
     "image": ["029-01.jpg", "029-02.jpg"],
@@ -247,7 +247,7 @@ catalog = [
 
     {"id": "030", 
     "title": "SET DE COLLAR Y ARETES", 
-     "keywords": "SET DE COLLAR Y ARETES DIJE GATO",
+     "keywords": "SET DE COLLAR Y ARETES DIJE GATO 030",
     "category": 2, 
     "price" : "$53.000", 
     "image": ["030-01.jpg", "030-02.jpg", "030-03.jpg", "030-04.jpg", "030-05.jpg"],
@@ -255,7 +255,7 @@ catalog = [
     
     {"id": "031", 
     "title": "ARETES TOPO GEOMÉTRICOS", 
-    "keywords": "ARETES TOPO GEOMÉTRICOS DORADO OSCURO BLANCO",
+    "keywords": "ARETES TOPO GEOMÉTRICOS DORADO OSCURO BLANCO 031",
     "category": 3, 
     "price" : "$55.000", 
     "image": ["031-01.jpg"],
@@ -263,7 +263,7 @@ catalog = [
 
     {"id": "032", 
     "title": "PULSERA CON INICIAL",
-    "keywords": "PULSERA CON INICIAL LETRA DIJE",
+    "keywords": "PULSERA CON INICIAL LETRA DIJE 032",
     "category": 1, 
     "price" : "$20.000", 
     "image": ["032-01.jpg", "032-02.jpg", "032-03.jpg", "032-04.jpg", "032-05.jpg", "032-06.jpg"],
@@ -271,7 +271,7 @@ catalog = [
 
     {"id": "033", 
     "title": "PULSERA MASCOTA", 
-    "keywords": "PULSERA MASCOTA DIJE PERRO DIJE PERRITO ",
+    "keywords": "PULSERA MASCOTA DIJE PERRO DIJE PERRITO 033",
     "category": 1, 
     "price" : "$30.000", 
     "image": ["033-01.jpg", "033-02.jpg", "033-03.jpg", "033-04.jpg", "033-05.jpg"],
@@ -279,7 +279,7 @@ catalog = [
 
     {"id": "034", 
     "title": "ANILLO", 
-    "keywords": "ANILLO",
+    "keywords": "ANILLO 034",
     "category": 5, 
     "price" : "$30.000", 
     "image": ["034-01.jpg"],
@@ -287,7 +287,7 @@ catalog = [
     
     {"id": "035", 
     "title": "MAXIARETES", 
-    "keywords": "ARETES MAXIARETES VERDE DORADO",
+    "keywords": "ARETES MAXIARETES VERDE DORADO 035",
     "category": 3, 
     "price" : "$60.000", 
     "image": ["035-01.jpg", "035-02.jpg", "035-03.jpg", "035-04.jpg"],
@@ -295,7 +295,7 @@ catalog = [
       
     {"id": "036", 
     "title": "MAXIARETES", 
-    "keywords": "ARETES MAXIARETES COLORES",
+    "keywords": "ARETES MAXIARETES COLORES 036",
     "category": 3, 
     "price" : "$80.000", 
     "image": ["036-01.jpg", "036-02.jpg"],
@@ -303,7 +303,7 @@ catalog = [
      
     {"id": "037", 
     "title": "MAXIARETES DESDE LA MONTAÑA", 
-    "keywords": "MAXIARETES DESDE LA MONTAÑA ARETES VERDE",
+    "keywords": "MAXIARETES DESDE LA MONTAÑA ARETES VERDE 037",
     "category": 3, 
     "price" : "$80.000", 
     "image": ["037-01.jpg"],
@@ -311,7 +311,7 @@ catalog = [
 
     {"id": "038", 
     "title": "SET DE ANILLOS", 
-    "keywords": "SET DE ANILLOS ANILLO DELGADO",
+    "keywords": "SET DE ANILLOS ANILLO DELGADO 038",
     "category": 5, 
     "price" : "$38.000", 
     "image": ["038-01.jpg"],
@@ -319,7 +319,7 @@ catalog = [
 
     {"id": "039", 
     "title": "ANILLO", 
-    "keywords": "ANILLO GRANDE NEGRO ROJO",
+    "keywords": "ANILLO GRANDE NEGRO ROJO 039",
     "category": 5, 
     "price" : "$45.000", 
     "image": ["039-01.jpg"],
@@ -327,7 +327,7 @@ catalog = [
 
     {"id": "040", 
     "title": "PULSERA", 
-    "keywords": "PULSERA PEYOTE ROMBOS HOMBRE CABALLERO",
+    "keywords": "PULSERA PEYOTE ROMBOS HOMBRE CABALLERO 040",
     "category": 7, 
     "price" : "$32.000", 
     "image": ["040-01.jpg", "040-02.jpg", "040-03.jpg", "040-04.jpg", "040-05.jpg"],
@@ -335,7 +335,7 @@ catalog = [
 
     {"id": "041", 
     "title": "MAXIARETES VERANERAS", 
-    "keywords": "MAXIARETES VERANERAS ARETES FLOR FUCSIA FLORES",
+    "keywords": "MAXIARETES VERANERAS ARETES FLOR FUCSIA FLORES 041",
     "category": 3, 
     "price" : "$110.000", 
     "image": ["041-01.jpg", "041-02.jpg"],
@@ -343,7 +343,7 @@ catalog = [
 
     {"id": "042", 
     "title": "PULSERA", 
-    "keywords": "PULSERA NOMBRE TELAR",
+    "keywords": "PULSERA NOMBRE TELAR 042",
     "category": 1, 
     "price" : "$25.000", 
     "image": ["042-01.jpg"],
@@ -351,7 +351,7 @@ catalog = [
 
     {"id": "043", 
     "title": "PULSERA MARIPOSA", 
-    "keywords": "PULSERA MARIPOSA",
+    "keywords": "PULSERA MARIPOSA 043",
     "category": 1, 
     "price" : "$30.000", 
     "image": ["043-01.jpg", "043-02.jpg"], 
@@ -359,7 +359,7 @@ catalog = [
 
     {"id": "044", 
     "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS PASTEL TILA",
+    "keywords": "SET DE PULSERAS PASTEL TILA 044",
     "category": 1, 
     "price" : "$38.000", 
     "image": ["044-01.jpg", "044-02.jpg"],
@@ -367,7 +367,7 @@ catalog = [
 
     {"id": "045", 
     "title": "MAXIARETES", 
-    "keywords": "ARETES MAXIARETES FLOR DORADO AZUL MORADO LILA",
+    "keywords": "ARETES MAXIARETES FLOR DORADO AZUL MORADO LILA 045",
     "category": 3, 
     "price" : "$80.000", 
     "image": ["045-01.jpg", "045-02.jpg"],
@@ -385,7 +385,7 @@ catalog = [
 
     {"id": "047", 
     "title": "SET DE PULSERAS CON ORO 18 KT", 
-    "keywords": "SET DE PULSERAS CON ORO 18 KT TONOS TIERRA",
+    "keywords": "SET DE PULSERAS CON ORO 18 KT TONOS TIERRA 047",
     "category": 1, 
     "price" : "$63.000", 
     "image": ["047-01.jpg", "047-02.jpg"],
@@ -393,7 +393,7 @@ catalog = [
 
     {"id": "048", 
     "title": "PULSERA CON ORO 18 KT", 
-    "keywords": "PULSERA CON ORO 18 KT 2 CORAZONES BALIN DELGADA ANCHA",
+    "keywords": "PULSERA CON ORO 18 KT 2 CORAZONES BALIN DELGADA ANCHA 048",
     "category": 1, 
     "price" : "$49.000", 
     "image": ["048-01.jpg"],
@@ -401,7 +401,7 @@ catalog = [
 
     {"id": "049", 
     "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS CORAZONES DE COLORES CORAZON",
+    "keywords": "SET DE PULSERAS CORAZONES DE COLORES CORAZON 049",
     "category": 1, 
     "price" : "$64.000", 
     "image": ["049-01.jpg"],
@@ -409,7 +409,7 @@ catalog = [
 
     {"id": "050", 
     "title": "ANILLO", 
-    "keywords": "ANILLO NEGRO ROMBO",
+    "keywords": "ANILLO NEGRO ROMBO 050",
     "category": 5, 
     "price" : "$35.000", 
     "image": ["050-01.jpg", "050-02.jpg"],
@@ -417,7 +417,7 @@ catalog = [
 
     {"id": "051", 
     "title": "PULSERA", 
-    "keywords": "PULSERA CORAZON CORAZONES DE COLORES",
+    "keywords": "PULSERA CORAZON CORAZONES DE COLORES 051",
     "category": 1, 
     "price" : "$40.000", 
     "image": ["051-01.jpg", "051-02.jpg", "051-03.jpg"],
@@ -425,7 +425,7 @@ catalog = [
 
     {"id": "052", 
     "title": "ANILLO", 
-    "keywords": "ANILLO",
+    "keywords": "ANILLO 052",
     "category": 5, 
     "price" : "$25.000", 
     "image": ["052-01.jpg", "052-02.jpg", "052-03.jpg", "052-04.jpg"],
@@ -443,7 +443,7 @@ catalog = [
     
     {"id": "054", 
     "title": "COLLAR ESCAPULARIO", 
-    "keywords": "COLLAR ESCAPULARIO CRUZ DIJE",
+    "keywords": "COLLAR ESCAPULARIO CRUZ DIJE 054",
     "category": 2, 
     "price" : "$40.000", 
     "image": ["054-01.jpg"],
@@ -451,7 +451,7 @@ catalog = [
 
     {"id": "055", 
     "title": " SET CADENA CON DIJE RELIGIOSO", 
-    "keywords": " SET CADENA CON DIJE RELIGIOSO VIRGEN VIRGENES ADVOCACIONES",
+    "keywords": " SET CADENA CON DIJE RELIGIOSO VIRGEN VIRGENES ADVOCACIONES 055",
     "category": 2, 
     "price" : "$32.000", 
     "image": ["055-01.jpg"],
@@ -459,7 +459,7 @@ catalog = [
 
     {"id": "056", 
     "title": "SET DE PULSERAS CON ORO 18KT", 
-    "keywords": "SET DE PULSERAS CON ORO 18KT BALIN ORO caballero",
+    "keywords": "SET DE PULSERAS CON ORO 18KT BALIN ORO caballero 056",
     "category": 7, 
     "price" : "$65.000", 
     "image": ["056-01.jpg", "056-02.jpg"],
@@ -467,7 +467,7 @@ catalog = [
 
     {"id": "057", 
     "title": "SET DE PULSERAS CON ORO 18 KT", 
-    "keywords": "SET DE PULSERAS CON ORO 18 KT 3 balines caballero",
+    "keywords": "SET DE PULSERAS CON ORO 18 KT 3 balines caballero 057",
     "category": 7, 
     "price" : "$98.000", 
     "image": ["057-01.jpg"],
@@ -475,7 +475,7 @@ catalog = [
 
     {"id": "058", 
     "title": "ARETES TOPOS GEOMÉTRICOS", 
-    "keywords": "ARETES TOPOS GEOMÉTRICOS topitos triangulo triangulares",
+    "keywords": "ARETES TOPOS GEOMÉTRICOS topitos triangulo triangulares 058",
     "category": 3, 
     "price" : "$20.000", 
     "image": ["058-01.jpg"],
@@ -483,7 +483,7 @@ catalog = [
     
     {"id": "059", 
     "title": "TOBILLERA", 
-    "keywords": "TOBILLERA peyote zigzag",
+    "keywords": "TOBILLERA peyote zigzag 059",
     "category": 4, 
     "price" : "$42.000", 
     "image": ["059-01.jpg", "059-02.jpg", "059-03.jpg"],
@@ -491,7 +491,7 @@ catalog = [
 
     {"id": "060", 
     "title": "MAXIARETES", 
-    "keywords": "MAXIARETES ARETES GRANDES DORADO ROJO AMARILLO VERDE",
+    "keywords": "MAXIARETES ARETES GRANDES DORADO ROJO AMARILLO VERDE 060",
     "category": 3, 
     "price" : "$110.000", 
     "image": ["060-01.jpg", "060-02.jpg"],
@@ -499,7 +499,7 @@ catalog = [
 
     {"id": "061", 
     "title": "MAXIARETES", 
-    "keywords": "MAXIARETES ARETES AZUL VERDE LILA",
+    "keywords": "MAXIARETES ARETES AZUL VERDE LILA 061",
     "category": 3, 
     "price" : "$110.000", 
     "image": ["061-01.jpg"],
@@ -507,7 +507,7 @@ catalog = [
 
     {"id": "062", 
     "title": "SET DE PULSERAS CON ORO 18 KT", 
-    "keywords": "SET DE PULSERAS CON ORO 18 KT caballero negro balin oro",
+    "keywords": "SET DE PULSERAS CON ORO 18 KT caballero negro balin oro 062",
     "category": 7, 
     "price" : "$63.000", 
     "image": ["062-01.jpg"],
@@ -515,7 +515,7 @@ catalog = [
 
     {"id": "063", 
     "title": "CHOKER INICIAL CON ORO LAMINADO", 
-    "keywords": "COLLAR CHOKER INICIAL CON ORO LAMINADO dije letra",
+    "keywords": "COLLAR CHOKER INICIAL CON ORO LAMINADO dije letra 063",
     "category": 2, 
     "price" : "$30.000", 
     "image": ["063-01.jpg"],
@@ -523,7 +523,7 @@ catalog = [
 
     {"id": "064", 
     "title": "MAXIARETES CAYENA", 
-    "keywords": "MAXIARETES CAYENA aretes",
+    "keywords": "MAXIARETES CAYENA aretes 064",
     "category": 3, 
     "price" : "$150.000", 
     "image": ["064-01.jpg", "064-02.jpg", "064-03.jpg"],
@@ -531,7 +531,7 @@ catalog = [
 
     {"id": "065", 
     "title": "MAXIARETES CIELO INFINITO", 
-    "keywords": "MAXIARETES CIELO INFINITO aretes cielo azul",
+    "keywords": "MAXIARETES CIELO INFINITO aretes cielo azul 065",
     "category": 3, 
     "price" : "$110.000", 
     "image": ["065-01.jpg", "065-02.jpg"],
@@ -539,7 +539,7 @@ catalog = [
 
     {"id": "066", 
     "title": "SET DE PULSERAS CON ORO 18KT", 
-    "keywords": "SET DE PULSERAS CON ORO 18KT peyote balin oro caballero hombre",
+    "keywords": "SET DE PULSERAS CON ORO 18KT peyote balin oro caballero hombre 067",
     "category": 7, 
     "price" : "$65.000", 
     "image": ["066-01.jpg"],
@@ -547,7 +547,7 @@ catalog = [
     
     {"id": "067", 
     "title": "PULSERA CON ORO 18KT", 
-    "keywords": "PULSERA CON ORO 18KT caballero hombre",
+    "keywords": "PULSERA CON ORO 18KT caballero hombre 067",
     "category": 7, 
     "price" : "$92.000", 
     "image": ["067-01.jpg"],
@@ -555,7 +555,7 @@ catalog = [
 
     {"id": "068", 
     "title": " SET DE COLLAR Y ARETES RELIGIOSO", 
-    "keywords": " SET DE COLLAR Y ARETES RELIGIOSO dije virgen milagrosa",
+    "keywords": " SET DE COLLAR Y ARETES RELIGIOSO dije virgen milagrosa 068",
     "category": 2, 
     "price" : "$45.000", 
     "image": ["068-01.jpg"],
@@ -563,7 +563,7 @@ catalog = [
 
     {"id": "069", 
     "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS",
+    "keywords": "SET DE PULSERAS 069",
     "category": 1, 
     "price" : "$68.000", 
     "image": ["069-01.jpg"],
@@ -571,7 +571,7 @@ catalog = [
 
     {"id": "070", 
     "title": " PULSERA CON ORO 18 KT", 
-    "keywords": " PULSERA CON ORO 18 KT balin oro",
+    "keywords": " PULSERA CON ORO 18 KT balin oro 070",
     "category": 1, 
     "price" : "$40.000", 
     "image": ["070-01.jpg"],
@@ -579,7 +579,7 @@ catalog = [
 
     {"id": "071", 
     "title": "CHOKER", 
-    "keywords": "CHOKER CORAZON COLLAR",
+    "keywords": "CHOKER CORAZON COLLAR 071",
     "category": 2, 
     "price" : "$35.000", 
     "image": ["071-01.jpg", "071-02.jpg"],
@@ -587,7 +587,7 @@ catalog = [
     
     {"id": "072", 
     "title": "PULSERA", 
-    "keywords": "PULSERA caballero hombre",
+    "keywords": "PULSERA caballero hombre 072",
     "category": 7, 
     "price" : "$15.000", 
     "image": ["072-01.jpg"],
@@ -595,7 +595,7 @@ catalog = [
 
     {"id": "073", 
     "title": "TOBILLERA", 
-    "keywords": "TOBILLERA PIE",
+    "keywords": "TOBILLERA PIE 073",
     "category": 4, 
     "price" : "$30.000", 
     "image": ["073-01.jpg", "073-02.jpg", "073-03.jpg", "073-04.jpg"],
@@ -603,7 +603,7 @@ catalog = [
     
     {"id": "074", 
     "title": "ARETES TOPOS GEOMÉTRICOS", 
-    "keywords": "ARETES TOPOS GEOMÉTRICOS",
+    "keywords": "ARETES TOPOS GEOMÉTRICOS 074",
     "category": 3, 
     "price" : "$15.000", 
     "image": ["074-01.jpg", "074-02.jpg", "074-03.jpg", "074-04.jpg", "074-05.jpg"],
@@ -611,7 +611,7 @@ catalog = [
 
     {"id": "075", 
     "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS negro caballero hombre",
+    "keywords": "SET DE PULSERAS negro caballero hombre 075",
     "category": 7, 
     "price" : "$38.000", 
     "image": ["075-01.jpg"],
@@ -619,7 +619,7 @@ catalog = [
 
     {"id": "076", 
     "title": "ARETES HOJAS DE OTOÑO", 
-    "keywords": "ARETES HOJAS DE OTOÑO",
+    "keywords": "ARETES HOJAS DE OTOÑO 076",
     "category": 3, 
     "price" : "$40.000", 
     "image": ["076-01.jpg", "076-02.jpg", "076-03.jpg", "076-04.jpg"],
@@ -627,7 +627,7 @@ catalog = [
     
     {"id": "077", 
     "title": "ANILLO PAISAJE DE VERANERAS", 
-    "keywords": "ANILLO PAISAJE DE VERANERAS",
+    "keywords": "ANILLO PAISAJE DE VERANERAS 077",
     "category": 5, 
     "price" : "$45.000", 
     "image": ["077-01.jpg"],
@@ -635,7 +635,7 @@ catalog = [
 
     {"id": "078", 
     "title": "TOBILLERA BANDERAS", 
-    "keywords": "TOBILLERA BANDERAS paises viaje viajar",
+    "keywords": "TOBILLERA BANDERAS paises viaje viajar 078",
     "category": 4, 
     "price" : "$40.000", 
     "image": ["078-01.jpg"],
@@ -643,7 +643,7 @@ catalog = [
 
     {"id": "079", 
     "title": "SET DE COLLAR Y ARETES", 
-    "keywords": "SET DE COLLAR Y ARETES dije flor girasol",
+    "keywords": "SET DE COLLAR Y ARETES dije flor girasol 079",
     "category": 2, 
     "price" : "$45.000", 
     "image": ["079-01.jpg"],
@@ -651,7 +651,7 @@ catalog = [
 
     {"id": "080", 
     "title": "MAXIARETES", 
-    "keywords": "MAXIARETES aretes hexagonos largos",
+    "keywords": "MAXIARETES aretes hexagonos largos 080",
     "category": 3, 
     "price" : "$65.000", 
     "image": ["080-01.jpg", "080-02.jpg"],
@@ -659,7 +659,7 @@ catalog = [
 
     {"id": "081", 
     "title": "ARETES TOPOS GEOMÉTRICOS", 
-    "keywords": "ARETES TOPOS GEOMÉTRICOS",
+    "keywords": "ARETES TOPOS GEOMÉTRICOS 081",
     "category": 3, 
     "price" : "$30.000", 
     "image": ["081-01.jpg", "081-02.jpg", "081-03.jpg", "081-04.jpg", "081-05.jpg", "081-06.jpg", "081-07.jpg", "081-08.jpg"],
@@ -667,7 +667,7 @@ catalog = [
 
     {"id": "082", 
     "title": "SET DE PULSERAS ESCAPULARIO", 
-    "keywords": "SET DE PULSERAS ESCAPULARIO dije cruz sagrado corazon",
+    "keywords": "SET DE PULSERAS ESCAPULARIO dije cruz sagrado corazon 082",
     "category": 1, 
     "price" : "$65.000", 
     "image": ["082-01.jpg"],
@@ -675,7 +675,7 @@ catalog = [
 
     {"id": "083", 
     "title": "PULSERA", 
-    "keywords": "PULSERA PEYOTE",
+    "keywords": "PULSERA PEYOTE 083",
     "category": 1, 
     "price" : "$37.000", 
     "image": ["083-01.jpg", "083-02.jpg", "083-03.jpg", "083-04.jpg", "083-05.jpg"],
@@ -683,7 +683,7 @@ catalog = [
 
     {"id": "084", 
     "title": "TOBILLERA", 
-    "keywords": "TOBILLERA CORAZONES",
+    "keywords": "TOBILLERA CORAZONES 084",
     "category": 4, 
     "price" : "$45.000", 
     "image": ["084-01.jpg"],
@@ -691,7 +691,7 @@ catalog = [
 
     {"id": "085", 
     "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS negro caballero hombre",
+    "keywords": "SET DE PULSERAS negro caballero hombre 085",
     "category": 7, 
     "price" : "$33.000", 
     "image": ["085-01.jpg"],
@@ -699,7 +699,7 @@ catalog = [
 
     {"id": "086", 
     "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS mariposa naranja",
+    "keywords": "SET DE PULSERAS mariposa naranja 086",
     "category": 1, 
     "price" : "$53.000", 
     "image": ["086-01.jpg"],
@@ -707,7 +707,7 @@ catalog = [
 
     {"id": "087", 
     "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS mariposa naranja lila",
+    "keywords": "SET DE PULSERAS mariposa naranja lila 087",
     "category": 1, 
     "price" : "$48.000", 
     "image": ["087-01.jpg"],
@@ -715,7 +715,7 @@ catalog = [
 
     {"id": "088", 
     "title": "PULSERA ESCAPULARIO", 
-    "keywords": "PULSERA ESCAPULARIO dije cruz sagrado corazon",
+    "keywords": "PULSERA ESCAPULARIO dije cruz sagrado corazon 088",
     "category": 1, 
     "price" : "$35.000", 
     "image": ["088-01.jpg"],
@@ -723,7 +723,7 @@ catalog = [
 
     {"id": "089", 
     "title": " PULSERA CORAZÓN", 
-    "keywords": " PULSERA CORAZÓN corazon amor y amistad",
+    "keywords": " PULSERA CORAZÓN corazon amor y amistad 089",
     "category": 1, 
     "price" : "$18.000", 
     "image": ["089-01.jpg", "089-02.jpg", "089-03.jpg"],
@@ -731,7 +731,7 @@ catalog = [
 
     {"id": "090", 
     "title": "PULSERA MARIPOSA CON ORO 18 KT", 
-    "keywords": "PULSERA MARIPOSA CON ORO 18 KT",
+    "keywords": "PULSERA MARIPOSA CON ORO 18 KT 090",
     "category": 1, 
     "price" : "$70.000", 
     "image": ["090-01.jpg"],
@@ -739,7 +739,7 @@ catalog = [
 
     {"id": "091", 
     "title": "SET DE PULSERAS CON ORO 18 KT", 
-    "keywords": "SET DE PULSERAS CON ORO 18 KT dije cruz peyote",
+    "keywords": "SET DE PULSERAS CON ORO 18 KT dije cruz peyote 091",
     "category": 1, 
     "price" : "$113.000", 
     "image": ["091-01.jpg"],
@@ -747,7 +747,7 @@ catalog = [
 
     {"id": "092", 
     "title": "PULSERA CON ORO 18KT", 
-    "keywords": "PULSERA CON ORO 18 KT dije sagrado corazon",
+    "keywords": "PULSERA CON ORO 18 KT dije sagrado corazon 092",
     "category": 1, 
     "price" : "$65.000", 
     "image": ["092-01.jpg"],
@@ -755,7 +755,7 @@ catalog = [
 
     {"id": "093", 
     "title": "PULSERA CON ORO 18 KT", 
-    "keywords": "PULSERA CON ORO 18 KT caballero hombre",
+    "keywords": "PULSERA CON ORO 18 KT caballero hombre 093",
     "category": 7, 
     "price" : "$40.000", 
     "image": ["093-01.jpg"],
@@ -763,7 +763,7 @@ catalog = [
     
     {"id": "094", 
     "title": "SET DE PULSERAS CON ORO 18KT", 
-    "keywords": "SET DE PULSERAS CON ORO 18 KT azul cielo corazon",
+    "keywords": "SET DE PULSERAS CON ORO 18 KT azul cielo corazon 094",
     "category": 1, 
     "price" : "$119.000", 
     "image": ["094-01.jpg"],
@@ -771,7 +771,7 @@ catalog = [
 
     {"id": "095", 
     "title": "SET DE PULSERAS CON ORO 18 KT", 
-    "keywords": "SET DE PULSERAS CON ORO 18 KT dije sagrado corazon",
+    "keywords": "SET DE PULSERAS CON ORO 18 KT dije sagrado corazon 095",
     "category": 1, 
     "price" : "$104.000", 
     "image": ["095-01.jpg"],
@@ -779,7 +779,7 @@ catalog = [
 
     {"id": "096", 
     "title": "PULSERA MASCOTA CON ORO 18KT", 
-    "keywords": "PULSERA MASCOTA CON ORO 18KT dije perro perrito",
+    "keywords": "PULSERA MASCOTA CON ORO 18KT dije perro perrito 096",
     "category": 1, 
     "price" : "$70.000", 
     "image": ["096-01.jpg"],
@@ -787,7 +787,7 @@ catalog = [
 
     {"id": "097", 
     "title": "SET DE PULSERAS ESCAPULARIO", 
-    "keywords": "SET DE PULSERAS ESCAPULARIO dije sagrado corazon",
+    "keywords": "SET DE PULSERAS ESCAPULARIO dije sagrado corazon 097",
     "category": 1, 
     "price" : "$64.000", 
     "image": ["097-01.jpg"],
@@ -795,7 +795,7 @@ catalog = [
 
     {"id": "098", 
     "title": "MAXIARETES UNA CASA EN LA VILLA", 
-    "keywords": "MAXIARETES UNA CASA EN LA VILLA aretes hexagono colorido",
+    "keywords": "MAXIARETES UNA CASA EN LA VILLA aretes hexagono colorido 098",
     "category": 3, 
     "price" : "$80.000", 
     "image": ["098-01.jpg", "098-02.jpg"],
@@ -803,7 +803,7 @@ catalog = [
 
     {"id": "099", 
     "title": "SET DE PULSERAS CON ORO 18KT", 
-    "keywords": "SET DE PULSERAS CON ORO 18 KT",
+    "keywords": "SET DE PULSERAS CON ORO 18 KT 099",
     "category": 1, 
     "price" : "$156.000", 
     "image": ["099-01.jpg"],
@@ -811,17 +811,15 @@ catalog = [
 
     {"id": "100", 
     "title": " COLLAR CHOKER ESCAPULARIO", 
-    "keywords": " COLLAR CHOKER ESCAPULARIO sagrado corazon",
+    "keywords": " COLLAR CHOKER ESCAPULARIO sagrado corazon 100",
     "category": 2, 
     "price" : "$40.000", 
     "image": ["100-01.jpg", "100-02.jpg"],
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Sistema de cierre con herrajes de acero dorado. <br>Medida aproximada del collar entre 38 a 40 cm."}, 
-
-    // nuevos
-
+    
     {"id": "101", 
     "title": "CAJA DE REGALO", 
-    "keywords": "CAJA DE REGALO DETALLE CAJA DECORADA scrunchie hatsu",
+    "keywords": "CAJA DE REGALO DETALLE CAJA DECORADA scrunchie hatsu 101",
     "category": 9, 
     "price" : "$28.000", 
     "image": ["101-01.jpg"],
@@ -829,7 +827,7 @@ catalog = [
 
     {"id": "102", 
     "title": "CAJA DE REGALO", 
-    "keywords": "CAJA DE REGALO DETALLE CAJA DECORADA topos",
+    "keywords": "CAJA DE REGALO DETALLE CAJA DECORADA topos 102",
     "category": 9, 
     "price" : "$40.000", 
     "image": ["102-01.jpg", "102-02.jpg"],
@@ -837,7 +835,7 @@ catalog = [
 
     {"id": "103", 
     "title": "COLLAR CHOKER ESCAPULARIO", 
-    "keywords": "COLLAR CHOKER ESCAPULARIO dije cruz sagrado corazon",
+    "keywords": "COLLAR CHOKER ESCAPULARIO dije cruz sagrado corazon 103",
     "category": 2, 
     "price" : "$45.000", 
     "image": ["103-01.jpg"],
@@ -845,7 +843,7 @@ catalog = [
 
     {"id": "104", 
     "title": "ANILLO CAÑANDONGA FLORECIDA", 
-    "keywords": "ANILLO CAÑANDONGA FLORECIDA flor",
+    "keywords": "ANILLO CAÑANDONGA FLORECIDA flor 104",
     "category": 5, 
     "price" : "$45.000", 
     "image": ["104-01.jpg"],
@@ -853,7 +851,7 @@ catalog = [
 
     {"id": "105", 
     "title": " SET DE PULSERAS", 
-    "keywords": " SET DE PULSERAS tila 3 filas peyote",
+    "keywords": " SET DE PULSERAS tila 3 filas peyote 105",
     "category": 1, 
     "price" : "$68.000", 
     "image": ["105-01.jpg"],
@@ -861,7 +859,7 @@ catalog = [
 
     {"id": "106", 
     "title": "PULSERA CON ORO 18KT", 
-    "keywords": "PULSERA CON ORO 18KT infantil niño niña",
+    "keywords": "PULSERA CON ORO 18KT infantil niño niña 106",
     "category": 8, 
     "price" : "$40.000", 
     "image": ["106-01.jpg"],
@@ -869,7 +867,7 @@ catalog = [
 
     {"id": "107", 
     "title": "PULSERA", 
-    "keywords": "PULSERA negro",
+    "keywords": "PULSERA negro 107",
     "category": 1, 
     "price" : "$25.000", 
     "image": ["107-01.jpg"],
@@ -877,7 +875,7 @@ catalog = [
 
     {"id": "108", 
     "title": "JOYAS PARA COMPARTIR", 
-    "keywords": "JOYAS PARA COMPARTIR pareja esposos novios enamorados",
+    "keywords": "JOYAS PARA COMPARTIR pareja esposos novios enamorados 108",
     "category": 10, 
     "price" : "$40.000", 
     "image": ["108-01.jpg"],
@@ -885,7 +883,7 @@ catalog = [
 
     {"id": "109", 
     "title": "ANILLO SAGRADO CORAZÓN", 
-    "keywords": "ANILLO SAGRADO CORAZÓN corazon",
+    "keywords": "ANILLO SAGRADO CORAZÓN corazon 109",
     "category": 5, 
     "price" : "$40.000", 
     "image": ["109-01.jpg"],
@@ -893,7 +891,7 @@ catalog = [
 
     {"id": "110", 
     "title": "TOBILLERA", 
-    "keywords": "TOBILLERA roja",
+    "keywords": "TOBILLERA roja 110",
     "category": 4, 
     "price" : "$20.000", 
     "image": ["110-01.jpg"],
@@ -901,7 +899,7 @@ catalog = [
 
     {"id": "111", 
     "title": "PULSERA", 
-    "keywords": "PULSERA delgada",
+    "keywords": "PULSERA delgada 111",
     "category": 7, 
     "price" : "$15.000", 
     "image": ["111-01.jpg", "111-02.jpg"],
@@ -909,7 +907,7 @@ catalog = [
 
     {"id": "112", 
     "title": "PULSERA", 
-    "keywords": "PULSERA COLORES PULSERA ARCO IRIS",
+    "keywords": "PULSERA COLORES PULSERA ARCO IRIS 112",
     "category": 1, 
     "price" : "$20.000", 
     "image": ["112-01.jpg"],
@@ -917,7 +915,7 @@ catalog = [
     
     {"id": "113", 
     "title": "ARETES TOPOS GEOMÉTRICOS", 
-    "keywords": "ARETES TOPOS GEOMÉTRICOS",
+    "keywords": "ARETES TOPOS GEOMÉTRICOS 113",
     "category": 3, 
     "price" : "$45.000", 
     "image": ["113-01.jpg"],
@@ -925,7 +923,7 @@ catalog = [
     
     {"id": "114", 
     "title": "PULSERA COLOMBIA", 
-    "keywords": "PULSERA COLOMBIA colombiana tricolor",
+    "keywords": "PULSERA COLOMBIA colombiana tricolor 114",
     "category": 1, 
     "price" : "$32.000", 
     "image": ["114-01.jpg"],
@@ -933,7 +931,7 @@ catalog = [
 
     {"id": "115", 
     "title": "MAXIARETES", 
-    "keywords": "MAXIARETES ARETES AZULES",
+    "keywords": "MAXIARETES ARETES AZULES 115",
     "category": 3, 
     "price" : "$50.000", 
     "image": ["115-01.jpg"],
@@ -941,7 +939,7 @@ catalog = [
 
     {"id": "116", 
     "title": "CAJA DE REGALO", 
-    "keywords": "CAJA DE REGALO scrunchie",
+    "keywords": "CAJA DE REGALO scrunchie 116",
     "category": 9, 
     "price" : "$28.000", 
     "image": ["116-01.jpg", "116-02.jpg"],
@@ -949,7 +947,7 @@ catalog = [
 
     {"id": "117", 
     "title": "PULSERA CON ORO 18KT", 
-    "keywords": "PULSERA CON ORO 18KT dije letra inicial j",
+    "keywords": "PULSERA CON ORO 18KT dije letra inicial j 117",
     "category": 1, 
     "price" : "$60.000", 
     "image": ["117-01.jpg"],
@@ -957,7 +955,7 @@ catalog = [
 
     {"id": "118", 
     "title": " PULSERA CON ORO 18KT", 
-    "keywords": " PULSERA CON ORO 18 KT colores arco iris",
+    "keywords": " PULSERA CON ORO 18 KT colores arco iris 118",
     "category": 1, 
     "price" : "$52.000", 
     "image": ["118-01.jpg"],
@@ -965,7 +963,7 @@ catalog = [
 
     {"id": "119", 
     "title": "ANILLO", 
-    "keywords": "ANILLO ROMBO NEGRO AZUL",
+    "keywords": "ANILLO ROMBO NEGRO AZUL 119",
     "category": 5, 
     "price" : "$30.000", 
     "image": ["119-01.jpg", "119-02.jpg"],
@@ -973,7 +971,7 @@ catalog = [
 
     {"id": "120", 
     "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS corazon dorado tila una fila",
+    "keywords": "SET DE PULSERAS corazon dorado tila una fila 120",
     "category": 1, 
     "price" : "$31.000", 
     "image": ["120-01.jpg", "120-02.jpg"],
@@ -981,7 +979,7 @@ catalog = [
 
     {"id": "121", 
     "title": "PULSERA", 
-    "keywords": "PULSERA PEYOTE PULSERA ANCHA DROPS GOTAS",
+    "keywords": "PULSERA PEYOTE PULSERA ANCHA DROPS GOTAS 121",
     "category": 1, 
     "price" : "$65.000", 
     "image": ["121-01.jpg"],
@@ -989,7 +987,7 @@ catalog = [
     
     {"id": "122", 
     "title": "PULSERA", 
-    "keywords": "PULSERA 2 FILAS",
+    "keywords": "PULSERA 2 FILAS 122",
     "category": 1, 
     "price" : "$20.000", 
     "image": ["122-01.jpg"],
@@ -997,7 +995,7 @@ catalog = [
 
     {"id": "123", 
     "title": "MAXIARETES", 
-    "keywords": "MAXIARETES aretes animal print",
+    "keywords": "MAXIARETES aretes animal print 123",
     "category": 3, 
     "price" : "$80.000", 
     "image": ["123-01.jpg", "123-02.jpg", "123-03.jpg"],
@@ -1005,7 +1003,7 @@ catalog = [
 
     {"id": "124", 
     "title": "PULSERA", 
-    "keywords": "PULSERA peyote",
+    "keywords": "PULSERA peyote 124",
     "category": 1, 
     "price" : "$27.000", 
     "image": ["124-01.jpg", "124-02.jpg"],
@@ -1013,7 +1011,7 @@ catalog = [
 
     {"id": "125", 
     "title": "MAXIARETES FLOR DE COCORILLA", 
-    "keywords": "MAXIARETES FLOR DE COCORILLA aretes flor cocorilla",
+    "keywords": "MAXIARETES FLOR DE COCORILLA aretes flor cocorilla 125",
     "category": 3, 
     "price" : "$60.000", 
     "image": ["125-01.jpg", "125-02.jpg"],
@@ -1021,7 +1019,7 @@ catalog = [
 
     {"id": "126", 
     "title": "ARETES CORAZÓN", 
-    "keywords": "ARETES CORAZÓN corazon",
+    "keywords": "ARETES CORAZÓN corazon 126",
     "category": 3, 
     "price" : "$35.000", 
     "image": ["126-01.jpg", "126-02.jpg"],
@@ -1029,7 +1027,7 @@ catalog = [
 
     {"id": "127", 
     "title": "PULSERA", 
-    "keywords": "PULSERA biscolata",
+    "keywords": "PULSERA biscolata 127",
     "category": 7, 
     "price" : "$25.000", 
     "image": ["127-01.jpg", "127-02.jpg"],
@@ -1037,7 +1035,7 @@ catalog = [
 
     {"id": "128", 
     "title": "MAXIARETES LA MARQUESA", 
-    "keywords": "MAXIARETES LA MARQUESA aretes la marquesa",
+    "keywords": "MAXIARETES LA MARQUESA aretes la marquesa 128",
     "category": 3, 
     "price" : "$60.000", 
     "image": ["128-01.jpg", "128-02.jpg"],
@@ -1045,7 +1043,7 @@ catalog = [
 
     {"id": "129", 
     "title": "ARETES TOPOS GEOMÉTRICOS", 
-    "keywords": "MAXIARETES TOPOS GEOMÉTRICOS aretes topo grandes",
+    "keywords": "MAXIARETES TOPOS GEOMÉTRICOS aretes topo grandes 129",
     "category": 3, 
     "price" : "$40.000", 
     "image": ["129-01.jpg", "129-02.jpg", "129-03.jpg", "129-04.jpg", "129-05.jpg", "129-06.jpg", "129-07.jpg"],
@@ -1053,7 +1051,7 @@ catalog = [
     
     {"id": "130", 
     "title": "PULSERA", 
-    "keywords": "PULSERA INFANTIL NIÑA CORAZONES CORAZON",
+    "keywords": "PULSERA INFANTIL NIÑA CORAZONES CORAZON 130",
     "category": 8, 
     "price" : "$32.000", 
     "image": ["130-01.jpg", "130-02.jpg"],
@@ -1061,7 +1059,7 @@ catalog = [
     
     {"id": "131", 
     "title": "COLLAR CHOKER CON ORO LAMINADO", 
-    "keywords": "COLLAR CHOKER CON ORO LAMINADO",
+    "keywords": "COLLAR CHOKER CON ORO LAMINADO 131",
     "category": 2, 
     "price" : "$35.000", 
     "image": ["131-01.jpg"],
@@ -1069,7 +1067,7 @@ catalog = [
 
     {"id": "132", 
     "title": "SET DE PULSERAS CON ORO LAMINADO", 
-    "keywords": "SET DE PULSERAS CON ORO LAMINADO",
+    "keywords": "SET DE PULSERAS CON ORO LAMINADO 132",
     "category": 1, 
     "price" : "$60.000", 
     "image": ["132-01.jpg"],
@@ -1077,7 +1075,7 @@ catalog = [
 
     {"id": "133", 
     "title": "PULSERA", 
-    "keywords": "PULSERA rombo ojo turco",
+    "keywords": "PULSERA rombo ojo turco 133",
     "category": 1, 
     "price" : "$27.000", 
     "image": ["133-01.jpg"],
@@ -1085,7 +1083,7 @@ catalog = [
 
     {"id": "134", 
     "title": "JOYAS PARA COMPARTIR: ORO 18 KT", 
-    "keywords": "JOYAS PARA COMPARTIR: ORO 18 KT pareja roja balin oro",
+    "keywords": "JOYAS PARA COMPARTIR: ORO 18 KT pareja roja balin oro 134",
     "category": 10, 
     "price" : "$80.000", 
     "image": ["134-01.jpg", "134-02.jpg"],
@@ -1093,7 +1091,7 @@ catalog = [
 
     {"id": "135", 
     "title": "PULSERA", 
-    "keywords": "PULSERA cilindro cuero",
+    "keywords": "PULSERA cilindro cuero 135",
     "category": 7, 
     "price" : "$22.000", 
     "image": ["135-01.jpg"],
@@ -1101,7 +1099,7 @@ catalog = [
 
     {"id": "136", 
     "title": "MAXIARETES CIELO INFINITO", 
-    "keywords": "MAXIARETES CIELO INFINITO aretes cielo aretes azules",
+    "keywords": "MAXIARETES CIELO INFINITO aretes cielo aretes azules 136",
     "category": 3, 
     "price" : "$60.000", 
     "image": ["136-01.jpg", "136-02.jpg"],
@@ -1109,7 +1107,7 @@ catalog = [
 
     {"id": "137", 
     "title": "SET DE PULSERAS CON ORO 18KT", 
-    "keywords": "SET DE PULSERAS CON ORO 18KT",
+    "keywords": "SET DE PULSERAS CON ORO 18KT 137",
     "category": 1, 
     "price" : "$224.000", 
     "image": ["137-01.jpg"],
@@ -1117,7 +1115,7 @@ catalog = [
 
     {"id": "138", 
     "title": "MAXIARETES", 
-    "keywords": "MAXIARETES aretes hexagonos grandes",
+    "keywords": "MAXIARETES aretes hexagonos grandes 138",
     "category": 3, 
     "price" : "$200.000", 
     "image": ["138-01.jpg"],
@@ -1125,7 +1123,7 @@ catalog = [
 
     {"id": "139", 
     "title": "MAXIARETES", 
-    "keywords": "MAXIARETES aretes hexagonos grandes fucsia topo",
+    "keywords": "MAXIARETES aretes hexagonos grandes fucsia topo 139",
     "category": 3, 
     "price" : "$60.000", 
     "image": ["139-01.jpg", "139-02.jpg", "139-03.jpg", "139-04.jpg"],
@@ -1133,7 +1131,7 @@ catalog = [
 
     {"id": "140", 
     "title": "COLLAR CHOKER SAGRADO CORAZÓN", 
-    "keywords": "COLLAR CHOKER SAGRADO CORAZON",
+    "keywords": "COLLAR CHOKER SAGRADO CORAZON 140",
     "category": 2, 
     "price" : "$35.000", 
     "image": ["140-01.jpg"],
@@ -1141,7 +1139,7 @@ catalog = [
 
     {"id": "141", 
     "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS PULSERAS ROJA CORAZON",
+    "keywords": "SET DE PULSERAS PULSERAS ROJA CORAZON 141",
     "category": 1, 
     "price" : "$48.000", 
     "image": ["141-01.jpg"],
@@ -1149,7 +1147,7 @@ catalog = [
 
     {"id": "142", 
     "title": "PULSERA SAGRADO CORAZÓN", 
-    "keywords": "PULSERA SAGRADO CORAZÓN PLACA",
+    "keywords": "PULSERA SAGRADO CORAZÓN PLACA 142",
     "category": 1, 
     "price" : "$35.000", 
     "image": ["142-01.jpg"],
