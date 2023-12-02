@@ -37,16 +37,6 @@ categories.map((i) => {
 
 // Functions ****************************************************
 
-const enableShower = () => {
-    const cardShower = document.querySelectorAll('.card__shower')
-    for (let i = 0; i < cardShower.length; i++){
-        cardShower[i].addEventListener('click', () => {
-            cardShower[i].previousElementSibling.classList.toggle('hidden')
-            cardShower[i].childNodes[1].classList.toggle('shower-indicator')
-        })
-    }
-}
-
 const loadCatalog = (data) => {
     main.innerHTML = ''
     for (let i = 0; i < data.length; i++){        
@@ -67,8 +57,7 @@ const loadCatalog = (data) => {
         main.innerHTML = `<h3 class='info'>Sin resultados</h3>`
     }else{
         main.appendChild(fragment)
-    }    
-    //enableShower()
+    }        
 }
 
 const searchInCatalog = () => {
@@ -91,11 +80,17 @@ const filterInCatalog = (selected) => {
 
 window.addEventListener('DOMContentLoaded', () => {
     catalog.reverse()
-    loadCatalog(catalog)
+    const url = new URL(window.location.href)
+    let catId = url.searchParams.get('cat')
+    if ( catId> 0){
+        filterInCatalog(catId)
+    }else{
+        loadCatalog(catalog)
+    }
 })
 
 searchInput.addEventListener('input', () => {
-    searchInCatalog(catalog)
+    searchInCatalog()
 })
 
 filtersBtn.addEventListener('click', () => {
@@ -109,7 +104,14 @@ closeFilterBtn.addEventListener('click', () => {
 const filterItems = document.querySelectorAll('.filter__item')
 for (let i = 0; i < filterItems.length; i++){
     filterItems[i].addEventListener('click', () => {
-        filterInCatalog(filterItems[i].getAttribute("data-id"))
+        
+        let categorySelected = filterItems[i].getAttribute("data-id")
+        
+        const url = new URL(window.location.href)
+        url.searchParams.set('cat', categorySelected)
+        history.pushState({}, '', url)
+        
+        filterInCatalog(categorySelected)
         filter.classList.add('hidden-outside')
         window.scrollTo({
             top: 0,
