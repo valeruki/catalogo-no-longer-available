@@ -182,7 +182,7 @@ p{
     right: 0;
     height: 100vh;    
     background-color: #fff;    
-    padding: 5px 5px 15px 15px;    
+    padding: 10px 5px 15px 15px;    
     width: calc(100% - 60px);    
     max-width: 360px;    
     box-shadow:
@@ -306,7 +306,7 @@ p{
     display: flex;    
     gap: 5px;
     overflow-y: auto;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     height: 360px;
     border-radius: 8px;
 }
@@ -343,7 +343,7 @@ details > summary {
 }
 
 .copy{
-    width: 100%;
+    width: 64px;
     margin-top: 15px;    
     padding: 8px;
     display: flex;
@@ -366,7 +366,7 @@ details > summary {
 }
 
 .c-gray{
-    color: #3d3d3d;
+    color: #646464;
 }
 
 .relative{
@@ -383,4 +383,25 @@ details > summary {
     border-radius: 4px;
     font-size: 10px;
     font-family: sans-serif;
+}
+
+.msj{
+    display: flex;
+    gap: 15px;
+    background-color: #f0d2cc;
+    padding: 10px 10px 10px 20px;
+    border-radius: 8px;
+    color: #3d3d3d;    
+}
+
+.msj > img{
+    width: 32px;
+    height: auto;
+    filter:opacity(.5) ;
+}
+
+.container-btns{
+    margin-bottom: 20px;
+    display: flex;
+    gap: 10px;
 }
