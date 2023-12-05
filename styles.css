@@ -404,4 +404,5 @@ details > summary {
     margin-bottom: 20px;
     display: flex;
     gap: 10px;
+    max-height: 70px;
 }
