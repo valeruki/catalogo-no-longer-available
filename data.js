@@ -86,7 +86,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano."}, 
     
     {"id": "009", 
-    "addi": false,
+    "addi": true,
     "title": "SET DE PULSERAS CON ORO 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT CORAZON PEYOTE 5 BALINES 009",
     "category": 1, 
@@ -122,7 +122,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo.<br>Hilo encerado. <br>Un (1) balin de oro 18 quilates tamaño N4mm."}, 
 
     {"id": "013", 
-    "addi": false,
+    "addi": true,
     "title": "SET DE PULSERAS CON ORO 18 KT",
     "keywords": "SET DE PULSERAS CON ORO 18 KT 013", 
     "category": 1, 
@@ -1242,7 +1242,7 @@ catalog = [
     "description": "Inspirados en la inmensidad del cielo y sus colores.<br><br><b>Materiales:</b>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
     {"id": "137", 
-    "addi": false,
+    "addi": true,
     "title": "SET DE PULSERAS CON ORO 18KT", 
     "keywords": "SET DE PULSERAS CON ORO 18KT 137",
     "category": 1, 
@@ -1251,7 +1251,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo. <br>Hilo encerado. <br>Nueve (9) balines de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "138", 
-    "addi": false,
+    "addi": true,
     "title": "MAXIARETES", 
     "keywords": "MAXIARETES aretes hexagonos grandes 138",
     "category": 3, 
