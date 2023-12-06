@@ -1321,6 +1321,14 @@ catalog = [
     "image": ["163-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
+    {"id": "164", 
+    "title": "CADENA CON DIJE SAGRADO CORAZÓN", 
+    "keywords": "CADENA CON DIJE SAGRADO CORAZÓN 164",
+    "category": 2, 
+    "price" : "$37.000", 
+    "image": ["164-01.jpg"],
+    "description": "<b>Materiales:</b><br> Mostacilla japonesa.<br>Cadena de acero dorado, medida aproximada de 40cm. (Los tejidos varian según disponibilidad)."}, 
+
 ]
 
 /*
