@@ -14,6 +14,7 @@ categories = [
 catalog = [   
 
     {"id": "001", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO DE 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO DE 18 KT 001",
     "category": 1, 
@@ -22,6 +23,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b> <br>Mostacilla japonesa.<br>Hilo encerado.<br>Un (1) balin de oro 18 quilates tamaño  N°3mm."},
    
     {"id": "002", 
+    "addi": false,
     "title": "PULSERA CON ORO 18 KT", 
     "keywords": "PULSERA CON ORO 18 KT 002",
     "category": 1, 
@@ -30,6 +32,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca.<br><br><b>Materiales:</b><br>Hilos con brillo.<br>Hilo encerado.<br>Un(1) balin de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "003", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO DE 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO DE 18 KT 003",
     "category": 1, 
@@ -38,6 +41,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo.<br>Hilo encerado. <br>Un (1) balin de oro 18 quilates tamaño N°4mm."}, 
 
     {"id": "004", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO DE 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO DE 18 KT 004",
     "category": 1, 
@@ -46,6 +50,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Un (1) balin de oro 18 quilates tamaño N°3mm."}, 
 
     {"id": "005", 
+    "addi": false,
     "title": "PULSERA CON ORO 18 KT", 
     "keywords": "PULSERA CON ORO 18 KT 005",
     "category": 1, 
@@ -54,6 +59,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Un (1) balin de oro 18 quilates tamaño N°4mm."}, 
 
     {"id": "006", 
+    "addi": true,
     "title": "SET DE PULSERAS CON ORO DE 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO DE 18 KT 006",
     "category": 1, 
@@ -62,6 +68,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Tres (3) balines de oro 18 quilates tamaño N°3mm."}, 
 
     {"id": "007", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS DIJE CRUZ 007",
     "category": 1, 
@@ -70,6 +77,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "008", 
+    "addi": false,
     "title": "PULSERA MANO JAMSA", 
     "keywords": "PULSERA DIJE MANO JAMSA OJO 008",
     "category": 1, 
@@ -78,6 +86,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano."}, 
     
     {"id": "009", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT CORAZON PEYOTE 5 BALINES 009",
     "category": 1, 
@@ -86,6 +95,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa. <br>Hilos con brillo. <br>Hilo encerado. <br>Siete (7) balines de oro 18 quilates tamaño N3mm.*"}, 
 
     {"id": "010", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS DIJE CRUZ SAGRADO CORAZON 010",
     "category": 1, 
@@ -94,6 +104,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "011", 
+    "addi": true,
     "title": "TOBILLERA CON ORO 18 KT", 
     "keywords": "TOBILLERA CON ORO 18 KT MARIPOSA FUCSIA AZUL 011",
     "category": 4, 
@@ -102,6 +113,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu tobillo. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo.<br>Hilo coreano. <br>Cuatro (4) balines de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "012", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT CORAZON 012",
     "category": 1, 
@@ -110,6 +122,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo.<br>Hilo encerado. <br>Un (1) balin de oro 18 quilates tamaño N4mm."}, 
 
     {"id": "013", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO 18 KT",
     "keywords": "SET DE PULSERAS CON ORO 18 KT 013", 
     "category": 1, 
@@ -118,6 +131,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo.<br>Hilo encerado. <br>Siete (7) balines de oro 18 quilates tamaño N4mm."}, 
 
     {"id": "014", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT CORAZON 014",
     "category": 1, 
@@ -126,6 +140,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Hilos con brillo. <br>Dos (2) balines de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "015", 
+    "addi": false,
     "title": "PULSERA CON ORO 18 KT", 
     "keywords": "PULSERA COLORIDA CON ORO 18 KT COLORINCHE 015",
     "category": 1, 
@@ -134,6 +149,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano.<br>Tres (3) balines de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "016", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT 016",
     "category": 1, 
@@ -142,6 +158,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Tres (3) balines de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "017", 
+    "addi": false,
     "title": "PULSERA CON ORO 18 KT", 
     "keywords": "PULSERA CON ORO 18 KT TEJIDO HILO ENCERADO ROJO 017",
     "category": 1, 
@@ -150,6 +167,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Hilo encerado. <br>Tres (3) balines de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "018", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT 018",
     "category": 1, 
@@ -158,6 +176,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo.<br>Hilo encerado. <br>Un (1) balin de oro 18 quilates tamaño N4mm."}, 
 
     {"id": "019", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS PEYOTE COLORES VIBRANTES NARANJA 019",
     "category": 1, 
@@ -166,6 +185,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "020", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS PEYOTE ROJO TILA ROJA 020",
     "category": 1, 
@@ -174,6 +194,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "021", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS 021",
     "category": 1, 
@@ -182,6 +203,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "022", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS MORADO LILA CORAZON 022",
     "category": 1, 
@@ -190,6 +212,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "023", 
+    "addi": false,
     "title": "PULSERA CORAZÓN", 
     "keywords": "PULSERA CORAZÓN OSCURA LILA MORADO 023",
     "category": 1, 
@@ -198,6 +221,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "024", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS PERLA ENFILADA PEYOTE 024",
     "category": 1, 
@@ -206,6 +230,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Perla natural."}, 
 
     {"id": "025", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA DROPS LAGRIMAS PEYOTE 025",
     "category": 1, 
@@ -214,6 +239,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "026", 
+    "addi": false,
     "title": "PULSERA CORAZONES", 
     "keywords": "PULSERA CORAZONES TRES 3 026",
     "category": 1, 
@@ -222,6 +248,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "027", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS SWAROSKI TILA LILA ENFILADA 027",
     "category": 1, 
@@ -230,6 +257,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Aplique de cristal de Swaroski."}, 
 
     {"id": "028", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS TELAR NUDE 028",
     "category": 1, 
@@ -238,6 +266,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "029", 
+    "addi": false,
     "title": "PULSERAS", 
     "keywords": "PULSERA COLORIDA COLORINCHE 1 FILA 029",
     "category": 1, 
@@ -246,6 +275,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "030", 
+    "addi": false,
     "title": "SET DE CADENA Y ARETES MASCOTA", 
      "keywords": "SET DE CADENA Y ARETES MASCOTA DIJE GATO 030",
     "category": 2, 
@@ -254,6 +284,7 @@ catalog = [
     "description": "Elaboramos los rostros de mascotas que el cliente solicite. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado.<br>Cadena de acero dorado medida aproximada 40cm de largo. (Los tejidos varian según disponibilidad)."}, 
     
     {"id": "031", 
+    "addi": false,
     "title": "ARETES TOPOS GEOMÉTRICOS", 
     "keywords": "ARETES TOPOS GEOMÉTRICOS DORADO OSCURO BLANCO 031",
     "category": 3, 
@@ -262,6 +293,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
     {"id": "032", 
+    "addi": false,
     "title": "PULSERA CON INICIAL",
     "keywords": "PULSERA CON INICIAL LETRA DIJE 032",
     "category": 1, 
@@ -270,6 +302,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "033", 
+    "addi": false,
     "title": "PULSERA MASCOTA", 
     "keywords": "PULSERA MASCOTA DIJE PERRO DIJE PERRITO 033",
     "category": 1, 
@@ -278,6 +311,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Se personaliza la carita de la mascota. <br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "034", 
+    "addi": false,
     "title": "ANILLO", 
     "keywords": "ANILLO 034",
     "category": 5, 
@@ -286,6 +320,7 @@ catalog = [
     "description": "Se realiza a la medida del cliente.<br><br><b>Materiales:</b><br>Mostacilla japonesa."}, 
     
     {"id": "035", 
+    "addi": false,
     "title": "MAXIARETES", 
     "keywords": "ARETES MAXIARETES VERDE DORADO 035",
     "category": 3, 
@@ -294,6 +329,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
       
     {"id": "036", 
+    "addi": false,
     "title": "MAXIARETES", 
     "keywords": "ARETES MAXIARETES COLORES 036",
     "category": 3, 
@@ -302,6 +338,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
      
     {"id": "037", 
+    "addi": false,
     "title": "MAXIARETES DESDE LA MONTAÑA", 
     "keywords": "MAXIARETES DESDE LA MONTAÑA ARETES VERDE 037",
     "category": 3, 
@@ -310,6 +347,7 @@ catalog = [
     "description": "Inspirados en la experiencia de viaje hacia  la Reserva Forestal de de Coraza, Chalan-Sucre.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
     {"id": "038", 
+    "addi": false,
     "title": "SET DE ANILLOS", 
     "keywords": "SET DE ANILLOS ANILLO DELGADO 038",
     "category": 5, 
@@ -318,6 +356,7 @@ catalog = [
     "description": "Se realiza a la medida del cliente. <br><br><b>Materiales:</b><br>Mostacilla japonesa."}, 
 
     {"id": "039", 
+    "addi": false,
     "title": "ANILLO", 
     "keywords": "ANILLO GRANDE NEGRO ROJO 039",
     "category": 5, 
@@ -326,6 +365,7 @@ catalog = [
     "description": "Se realiza a la medida del cliente. <br><br><b>Materiales:</b><br>Mostacilla japonesa."}, 
 
     {"id": "040", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA PEYOTE ROMBOS HOMBRE CABALLERO 040",
     "category": 7, 
@@ -334,6 +374,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "041", 
+    "addi": true,
     "title": "MAXIARETES VERANERAS", 
     "keywords": "MAXIARETES VERANERAS ARETES FLOR FUCSIA FLORES 041",
     "category": 3, 
@@ -342,6 +383,7 @@ catalog = [
     "description": "Inspirados en la veranera que con su majestuoso color fucsia, embellece nuestras casas y paisajes de la región.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
     {"id": "042", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA NOMBRE TELAR 042",
     "category": 1, 
@@ -350,6 +392,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "043", 
+    "addi": false,
     "title": "PULSERA MARIPOSA", 
     "keywords": "PULSERA MARIPOSA 043",
     "category": 1, 
@@ -358,6 +401,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano."}, 
 
     {"id": "044", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS PASTEL TILA 044",
     "category": 1, 
@@ -366,6 +410,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado.<br>"}, 
 
     {"id": "045", 
+    "addi": false,
     "title": "MAXIARETES", 
     "keywords": "ARETES MAXIARETES FLOR DORADO AZUL MORADO LILA 045",
     "category": 3, 
@@ -375,6 +420,7 @@ catalog = [
 
     /*
     {"id": "046", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT ZIGZAG PEYOTE",
     "category": 1, 
@@ -384,6 +430,7 @@ catalog = [
     */
 
     {"id": "047", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT TONOS TIERRA 047",
     "category": 1, 
@@ -392,6 +439,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo.<br>Hilo encerado. <br>Un (1) balin de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "048", 
+    "addi": false,
     "title": "PULSERA CON ORO 18 KT", 
     "keywords": "PULSERA CON ORO 18 KT 2 CORAZONES BALIN DELGADA ANCHA 048",
     "category": 1, 
@@ -400,6 +448,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Un (1) balin de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "049", 
+    "addi": false,
     "title": "SET DE PULSERAS CORAZÓN", 
     "keywords": "SET DE PULSERAS CORAZONES DE COLORES CORAZON 049",
     "category": 1, 
@@ -408,6 +457,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Hilo coreano."}, 
 
     {"id": "050", 
+    "addi": false,
     "title": "ANILLO", 
     "keywords": "ANILLO NEGRO ROMBO 050",
     "category": 5, 
@@ -416,6 +466,7 @@ catalog = [
     "description": "Se realiza a la medida del cliente. <br><br><b>Materiales:</b><br>Mostacilla japonesa."}, 
 
     {"id": "051", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA CORAZON CORAZONES DE COLORES 051",
     "category": 1, 
@@ -424,6 +475,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano."}, 
 
     {"id": "052", 
+    "addi": false,
     "title": "ANILLO", 
     "keywords": "ANILLO 052",
     "category": 5, 
@@ -433,6 +485,7 @@ catalog = [
 
     /*
     {"id": "053", 
+    "addi": false,
     "title": "PULSERA RELIGIOSA", 
     "keywords": "PULSERA RELIGIOSA DIJE VIRGEN GUADALUPE GUADALUPANA",
     "category": 1, 
@@ -442,6 +495,7 @@ catalog = [
     */
     
     {"id": "054", 
+    "addi": false,
     "title": "COLLAR CHOKER CRUZ", 
     "keywords": "COLLAR CHOKER ESCAPULARIO CRUZ DIJE 054",
     "category": 2, 
@@ -450,6 +504,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Sistema de cierre con herrajes de acero dorado. <br>Medida aproximada del collar entre 36 a 38 cm."}, 
 
     {"id": "055", 
+    "addi": false,
     "title": "CADENA CON DIJE ADVOCACIÓN VIRGEN", 
     "keywords": " SET CADENA CON DIJE RELIGIOSO VIRGEN VIRGENES ADVOCACIONES 055",
     "category": 2, 
@@ -458,6 +513,7 @@ catalog = [
     "description": "Se elaboran las advocaciones de la Virgen.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Cadena de acero dorado, medida aproximada de 40cm. (Los tejidos varian según disponibilidad)."}, 
 
     {"id": "056", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO 18KT", 
     "keywords": "SET DE PULSERAS CON ORO 18KT BALIN ORO caballero 056",
     "category": 7, 
@@ -466,6 +522,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Un (1) balin de oro 18 quilates tamaño N4mm."}, 
 
     {"id": "057", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT 3 balines caballero 057",
     "category": 7, 
@@ -474,6 +531,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado.<br>Tres (3) balines de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "058", 
+    "addi": false,
     "title": "ARETES TOPOS GEOMÉTRICOS", 
     "keywords": "ARETES TOPOS GEOMÉTRICOS topitos triangulo triangulares 058",
     "category": 3, 
@@ -482,6 +540,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
     
     {"id": "059", 
+    "addi": false,
     "title": "TOBILLERA", 
     "keywords": "TOBILLERA peyote zigzag 059",
     "category": 4, 
@@ -490,6 +549,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu tobillo.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "060", 
+    "addi": true,
     "title": "MAXIARETES", 
     "keywords": "MAXIARETES ARETES GRANDES DORADO ROJO AMARILLO VERDE 060",
     "category": 3, 
@@ -498,6 +558,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa. <br>Topos de acero dorado."}, 
 
     {"id": "061", 
+    "addi": true,
     "title": "MAXIARETES", 
     "keywords": "MAXIARETES ARETES AZUL VERDE LILA 061",
     "category": 3, 
@@ -506,6 +567,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
     {"id": "062", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT caballero negro balin oro 062",
     "category": 7, 
@@ -514,6 +576,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Un (1) balin de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "063", 
+    "addi": false,
     "title": "COLLAR CHOKER CON ORO LAMINADO", 
     "keywords": "COLLAR CHOKER INICIAL CON ORO LAMINADO dije letra 063",
     "category": 2, 
@@ -522,6 +585,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Sistema de cierre con herrajes de acero dorado. <br>Medida aproximada del collar entre 35 a 37 cm, con extensión de cadena. <br>Letra inicial de nácar."}, 
 
     {"id": "064", 
+    "addi": true,
     "title": "MAXIARETES CAYENA", 
     "keywords": "MAXIARETES CAYENA aretes 064",
     "category": 3, 
@@ -530,6 +594,7 @@ catalog = [
     "description": "Inspirados en la flor de bonche y su color intenso rojo que adorna los patios y terrazas de las casas de nuestra región sabanera.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
     {"id": "065", 
+    "addi": true,
     "title": "MAXIARETES CIELO INFINITO", 
     "keywords": "MAXIARETES CIELO INFINITO aretes cielo azul 065",
     "category": 3, 
@@ -538,6 +603,7 @@ catalog = [
     "description": "Inspirados en la inmensidad del cielo y sus colores.<br><br><b>Materiales:</b>Mostacilla japonesa. <br>Topos de acero dorado."}, 
 
     {"id": "066", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO 18KT", 
     "keywords": "SET DE PULSERAS CON ORO 18KT peyote balin oro caballero hombre 067",
     "category": 7, 
@@ -546,6 +612,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Un (1) balin de oro 18 quilates tamaño N3mm."}, 
     
     {"id": "067", 
+    "addi": false,
     "title": "PULSERA CON ORO 18KT", 
     "keywords": "PULSERA CON ORO 18KT caballero hombre 067",
     "category": 7, 
@@ -554,6 +621,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Hilo coreano. <br>Dos (2) balines de oro 18 quilates tamaño N3mm.<br>Un (1) balin de oro 18 quilates tamaño N4mm."}, 
 
     {"id": "068", 
+    "addi": false,
     "title": " SET CADENA Y ARETES ADVOCACIÓN VIRGEN", 
     "keywords": " SET DE COLLAR Y ARETES RELIGIOSO dije virgen milagrosa 068 ADVOCACIÓN VIRGEN",
     "category": 2, 
@@ -562,6 +630,7 @@ catalog = [
     "description": "Se elaboran las advocaciones de la Virgen.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Cadena de acero dorado (los tejidos varian según disponibilidad). Medida. Aproximada 40 cm."}, 
 
     {"id": "069", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS 069",
     "category": 1, 
@@ -570,6 +639,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "070", 
+    "addi": false,
     "title": " PULSERA CON ORO 18 KT", 
     "keywords": " PULSERA CON ORO 18 KT balin oro 070",
     "category": 1, 
@@ -578,6 +648,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Un(1) balin de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "071", 
+    "addi": false,
     "title": "CHOKER", 
     "keywords": "CHOKER CORAZON COLLAR 071",
     "category": 2, 
@@ -586,6 +657,7 @@ catalog = [
     "description": "Sistema de cierre con broche y extensión de cadena para graduar a tu cuello.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado.<br>Herrajes de acero dorado."}, 
     
     {"id": "072", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA caballero hombre 072",
     "category": 7, 
@@ -594,6 +666,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "073", 
+    "addi": false,
     "title": "TOBILLERA", 
     "keywords": "TOBILLERA PIE 073",
     "category": 4, 
@@ -602,6 +675,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu tobillo.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
     
     {"id": "074", 
+    "addi": false,
     "title": "ARETES TOPOS GEOMÉTRICOS", 
     "keywords": "ARETES TOPOS GEOMÉTRICOS 074",
     "category": 3, 
@@ -610,6 +684,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
     {"id": "075", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS negro caballero hombre 075",
     "category": 7, 
@@ -618,6 +693,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "076", 
+    "addi": false,
     "title": "ARETES HOJAS DE OTOÑO", 
     "keywords": "ARETES HOJAS DE OTOÑO 076",
     "category": 3, 
@@ -626,6 +702,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
     
     {"id": "077", 
+    "addi": false,
     "title": "ANILLO PAISAJE DE VERANERAS", 
     "keywords": "ANILLO PAISAJE DE VERANERAS 077",
     "category": 5, 
@@ -634,6 +711,7 @@ catalog = [
     "description": "Se realiza a la medida del cliente. <br><br><b>Materiales:</b><br>Mostacilla japonesa."}, 
 
     {"id": "078", 
+    "addi": false,
     "title": "TOBILLERA BANDERAS", 
     "keywords": "TOBILLERA BANDERAS paises viaje viajar 078",
     "category": 4, 
@@ -642,6 +720,7 @@ catalog = [
     "description": "Se elaboran con las banderas de los países que has visitado o anhelas visitar.<br><br>Sistema de cierre con nudo corredizo para graduar a tu tobillo.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "079", 
+    "addi": false,
     "title": "SET DE CADENA Y ARETES", 
     "keywords": "SET DE CADENA Y ARETES dije flor girasol 079",
     "category": 2, 
@@ -650,6 +729,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado.<br>Cadena de acero dorado. Medida aproximada de 40cm. (Los tejidos varian según disponibilidad)."}, 
 
     {"id": "080", 
+    "addi": false,
     "title": "MAXIARETES", 
     "keywords": "MAXIARETES aretes hexagonos largos 080",
     "category": 3, 
@@ -658,6 +738,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
     {"id": "081", 
+    "addi": false,
     "title": "ARETES TOPOS GEOMÉTRICOS", 
     "keywords": "ARETES TOPOS GEOMÉTRICOS 081",
     "category": 3, 
@@ -666,6 +747,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
     {"id": "082", 
+    "addi": false,
     "title": "SET DE PULSERAS ESCAPULARIO", 
     "keywords": "SET DE PULSERAS ESCAPULARIO dije cruz sagrado corazon 082",
     "category": 1, 
@@ -674,6 +756,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "083", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA PEYOTE 083",
     "category": 1, 
@@ -682,6 +765,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "084", 
+    "addi": false,
     "title": "TOBILLERA", 
     "keywords": "TOBILLERA CORAZONES 084",
     "category": 4, 
@@ -690,6 +774,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu tobillo. <br><br><b>Materiales:</b><br>Mostacilla japonesa. <br>Hilo coreano."}, 
 
     {"id": "085", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS negro caballero hombre 085",
     "category": 7, 
@@ -698,6 +783,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "086", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS mariposa naranja 086",
     "category": 1, 
@@ -706,6 +792,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "087", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS mariposa naranja lila 087",
     "category": 1, 
@@ -714,6 +801,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano.<br>Hilos con brillo."}, 
 
     {"id": "088", 
+    "addi": false,
     "title": "PULSERA ESCAPULARIO", 
     "keywords": "PULSERA ESCAPULARIO dije cruz sagrado corazon 088",
     "category": 1, 
@@ -722,6 +810,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano."}, 
 
     {"id": "089", 
+    "addi": false,
     "title": " PULSERA CORAZÓN", 
     "keywords": " PULSERA CORAZÓN corazon amor y amistad 089",
     "category": 1, 
@@ -730,6 +819,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "090", 
+    "addi": false,
     "title": "PULSERA CON ORO 18 KT", 
     "keywords": "PULSERA MARIPOSA CON ORO 18 KT 090",
     "category": 1, 
@@ -738,14 +828,16 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo.<br>Hilo encerado.<br>Dos (2) balines de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "091", 
+    "addi": true,
     "title": "SET DE PULSERAS CON ORO 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT dije cruz peyote 091",
     "category": 1, 
-    "price" : "$113.000", 
+    "price" : "$115.000", 
     "image": ["091-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Dos (2) balines de oro 18 quilates tamaño N4mm."}, 
 
     {"id": "092", 
+    "addi": false,
     "title": "PULSERA CON ORO 18KT", 
     "keywords": "PULSERA CON ORO 18 KT dije sagrado corazon 092",
     "category": 1, 
@@ -754,6 +846,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Dos (2) balines de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "093", 
+    "addi": false,
     "title": "PULSERA CON ORO 18 KT", 
     "keywords": "PULSERA CON ORO 18 KT caballero hombre 093",
     "category": 7, 
@@ -762,6 +855,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Un (1) balin de oro 18 quilates tamaño N3mm."}, 
     
     {"id": "094", 
+    "addi": true,
     "title": "SET DE PULSERAS CON ORO 18KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT azul cielo corazon 094",
     "category": 1, 
@@ -770,6 +864,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo.<br>Hilo encerado. <br>Tres (3) balines de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "095", 
+    "addi": true,
     "title": "SET DE PULSERAS CON ORO 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT dije sagrado corazon 095",
     "category": 1, 
@@ -778,6 +873,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado.<br>2 balines de oro 18 quilates N°3mm."}, 
 
     {"id": "096", 
+    "addi": false,
     "title": "PULSERA MASCOTA CON ORO 18KT", 
     "keywords": "PULSERA MASCOTA CON ORO 18KT dije perro perrito 096",
     "category": 1, 
@@ -786,6 +882,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br>Se personaliza la carita de la mascota. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado.<br>Hilos con brillo<br>Dos (2) balines de oro 18 quilates tamaño n3mm."}, 
 
     {"id": "097", 
+    "addi": false,
     "title": "SET DE PULSERAS ESCAPULARIO", 
     "keywords": "SET DE PULSERAS ESCAPULARIO dije sagrado corazon 097",
     "category": 1, 
@@ -794,6 +891,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "098", 
+    "addi": false,
     "title": "MAXIARETES UNA CASA EN LA VILLA", 
     "keywords": "MAXIARETES UNA CASA EN LA VILLA aretes hexagono colorido 098",
     "category": 3, 
@@ -802,6 +900,7 @@ catalog = [
     "description": "Inspirados en la casa colorida ubicada en el municipio de La Villa San Benito Abad.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
     {"id": "099", 
+    "addi": true,
     "title": "SET DE PULSERAS CON ORO 18KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT 099",
     "category": 1, 
@@ -810,6 +909,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado.<br>Seis (6) balines de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "100", 
+    "addi": false,
     "title": " COLLAR CHOKER SAGRADO CORAZÓN", 
     "keywords": " COLLAR CHOKER ESCAPULARIO sagrado corazon 100",
     "category": 2, 
@@ -818,6 +918,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Sistema de cierre con herrajes de acero dorado. <br>Medida aproximada del collar entre 36 a 38 cm."}, 
     
     {"id": "101", 
+    "addi": false,
     "title": "CAJA DE REGALO", 
     "keywords": "CAJA DE REGALO DETALLE CAJA DECORADA scrunchie hatsu 101",
     "category": 9, 
@@ -826,6 +927,7 @@ catalog = [
     "description": "Caja de regalo con joyas tejidas a mano por artesanos de la ciudad de Sincelejo - Sucre.<br><br>Complementamos con otros productos de marcas Sucreñas o Nacionales. <br><br><b>Contiene:</b><br>1. Aretes tipos con forma triangular: $ 15.000.<br>2. Scrunch talla M diseñado por Diana Design: $7.000.<br>3. Te Hatsú: $6.000.<br><br>Se obsequia la caja decorativa que incluye: lazo en tela, tarjeta escrita en máquina, aplique floral seco."}, 
 
     {"id": "102", 
+    "addi": false,
     "title": "CAJA DE REGALO", 
     "keywords": "CAJA DE REGALO DETALLE CAJA DECORADA topos 102",
     "category": 9, 
@@ -834,6 +936,7 @@ catalog = [
     "description": "Caja de regalo con joyas tejidas a mano por artesanos de la ciudad de Sincelejo - Sucre.<br><br>Complementamos con otros productos de marcas Sucreñas o Nacionales.<br><br><b>Contiene:</b><br>1. Aretes tipos con forma hexagonal $30.000.<br>2. Scrunch talla L diseñado por Diana Design: $10.000.<br><br>Se obsequia la caja decorativa que incluye: lazo en tela, tarjeta escrita en máquina, aplique floral seco."}, 
 
     {"id": "103", 
+    "addi": false,
     "title": "COLLAR CHOKER ESCAPULARIO", 
     "keywords": "COLLAR CHOKER ESCAPULARIO dije cruz sagrado corazon 103",
     "category": 2, 
@@ -842,6 +945,7 @@ catalog = [
     "description": "<b>Materiales:</b>Mostacilla japonesa.<br>Sistema de cierre con herrajes de acero dorado. <br>Medida aproximada del collar entre 36 a 38 cm."}, 
 
     {"id": "104", 
+    "addi": false,
     "title": "ANILLO CAÑANDONGA FLORECIDA", 
     "keywords": "ANILLO CAÑANDONGA FLORECIDA flor 104",
     "category": 5, 
@@ -850,6 +954,7 @@ catalog = [
     "description": "Inspirado en la Cañandonga Florecida y el paisaje de nuestro Departamento Sucre.<br><br>Se realiza a la medida del cliente. <br><br><b>Materiales:</b><br>Mostacilla japonesa."}, 
 
     {"id": "105", 
+    "addi": false,
     "title": " SET DE PULSERAS", 
     "keywords": " SET DE PULSERAS tila 3 filas peyote 105",
     "category": 1, 
@@ -858,6 +963,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "106", 
+    "addi": false,
     "title": "PULSERA CON ORO 18KT", 
     "keywords": "PULSERA CON ORO 18KT infantil niño niña 106",
     "category": 8, 
@@ -866,6 +972,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b>Mostacilla japonesa. <br>Hilo coreano. <br>Un (1) balin de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "107", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA negro 107",
     "category": 1, 
@@ -874,6 +981,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "108", 
+    "addi": false,
     "title": "JOYAS PARA COMPARTIR", 
     "keywords": "JOYAS PARA COMPARTIR pareja esposos novios enamorados 108",
     "category": 10, 
@@ -882,6 +990,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "109", 
+    "addi": false,
     "title": "ANILLO SAGRADO CORAZÓN", 
     "keywords": "ANILLO SAGRADO CORAZÓN corazon 109",
     "category": 5, 
@@ -890,6 +999,7 @@ catalog = [
     "description": "Se realiza a la medida del cliente. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>"}, 
 
     {"id": "110", 
+    "addi": false,
     "title": "TOBILLERA", 
     "keywords": "TOBILLERA roja 110",
     "category": 4, 
@@ -898,6 +1008,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu tobillo<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano."}, 
 
     {"id": "111", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA delgada 111",
     "category": 7, 
@@ -906,6 +1017,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "112", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA COLORES PULSERA ARCO IRIS 112",
     "category": 1, 
@@ -914,6 +1026,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano."}, 
     
     {"id": "113", 
+    "addi": false,
     "title": "ARETES TOPOS GEOMÉTRICOS", 
     "keywords": "ARETES TOPOS GEOMÉTRICOS 113",
     "category": 3, 
@@ -922,6 +1035,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
     
     {"id": "114", 
+    "addi": false,
     "title": "PULSERA COLOMBIA", 
     "keywords": "PULSERA COLOMBIA colombiana tricolor 114",
     "category": 1, 
@@ -930,6 +1044,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "115", 
+    "addi": false,
     "title": "MAXIARETES", 
     "keywords": "MAXIARETES ARETES AZULES 115",
     "category": 3, 
@@ -938,6 +1053,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
     {"id": "116", 
+    "addi": false,
     "title": "CAJA DE REGALO", 
     "keywords": "CAJA DE REGALO scrunchie 116",
     "category": 9, 
@@ -946,6 +1062,7 @@ catalog = [
     "description": "Caja de regalo con joyas tejidas a mano por artesanos de la ciudad de Sincelejo - Sucre.<br><br>Complementamos con otros productos de marcas Sucreñas o Nacionales. <br><br><b>Contiene:</b><br>1. Pulsera tejida a mano: $18.000. <br>2. Scrunch talla M de la marca Diana Designs: $10.000."}, 
 
     {"id": "117", 
+    "addi": false,
     "title": "PULSERA CON ORO 18KT", 
     "keywords": "PULSERA CON ORO 18KT dije letra inicial j 117",
     "category": 1, 
@@ -954,6 +1071,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Dos (2) balines de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "118", 
+    "addi": false,
     "title": " PULSERA CON ORO 18KT", 
     "keywords": " PULSERA CON ORO 18 KT colores arco iris 118",
     "category": 1, 
@@ -962,6 +1080,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa. <br>Hilo coreano.<br>Un (1) balin de oro 18 quilates tamaño N4mm."}, 
 
     {"id": "119", 
+    "addi": false,
     "title": "ANILLO", 
     "keywords": "ANILLO ROMBO NEGRO AZUL 119",
     "category": 5, 
@@ -970,6 +1089,7 @@ catalog = [
     "description": "Se realiza a la medida del cliente. <br><br><b>Materiales:</b><br>Mostacilla japonesa."}, 
 
     {"id": "120", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS corazon dorado tila una fila 120",
     "category": 1, 
@@ -978,6 +1098,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "121", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA PEYOTE PULSERA ANCHA DROPS GOTAS 121",
     "category": 1, 
@@ -986,6 +1107,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
     
     {"id": "122", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA 2 FILAS 122",
     "category": 1, 
@@ -994,6 +1116,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "123", 
+    "addi": false,
     "title": "MAXIARETES", 
     "keywords": "MAXIARETES aretes animal print 123",
     "category": 3, 
@@ -1002,6 +1125,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa. <br>Topos en acero dorado."}, 
 
     {"id": "124", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA peyote 124",
     "category": 1, 
@@ -1010,6 +1134,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "125", 
+    "addi": false,
     "title": "MAXIARETES FLOR DE COCORILLA", 
     "keywords": "MAXIARETES FLOR DE COCORILLA aretes flor cocorilla 125",
     "category": 3, 
@@ -1018,6 +1143,7 @@ catalog = [
     "description": "Inspirados en la pinta del trenzado de piezas de la Etnia Zenue, Flor de Cocorilla.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
     {"id": "126", 
+    "addi": false,
     "title": "ARETES CORAZÓN", 
     "keywords": "ARETES CORAZÓN corazon 126",
     "category": 3, 
@@ -1026,6 +1152,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado.<br>Balines con baño dorado."}, 
 
     {"id": "127", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA biscolata 127",
     "category": 7, 
@@ -1034,6 +1161,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "128", 
+    "addi": false,
     "title": "MAXIARETES LA MARQUESA", 
     "keywords": "MAXIARETES LA MARQUESA aretes la marquesa 128",
     "category": 3, 
@@ -1042,6 +1170,7 @@ catalog = [
     "description": "Inspirada en la encantadora Mompox, el portal de la Marquesa, con vista hacia el río, se caracteriza por sus ventanas e inmensos portales, techos altos y una arquitectura colonial.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
     {"id": "129", 
+    "addi": false,
     "title": "ARETES TOPOS GEOMÉTRICOS", 
     "keywords": "MAXIARETES TOPOS GEOMÉTRICOS aretes topo grandes 129",
     "category": 3, 
@@ -1050,6 +1179,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
     
     {"id": "130", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA INFANTIL NIÑA CORAZONES CORAZON 130",
     "category": 8, 
@@ -1058,6 +1188,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano."}, 
     
     {"id": "131", 
+    "addi": false,
     "title": "COLLAR CHOKER CON ORO LAMINADO", 
     "keywords": "COLLAR CHOKER CON ORO LAMINADO 131",
     "category": 2, 
@@ -1066,6 +1197,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Sistema de cierre con herrajes de acero dorado.<br>Medida aproximada de choker entre 35 a 37 cm. <br>2 balines de oro laminado N3mm.<br>Piedra natural Turquesa Africana: Favorece el descanso y la vitalidad."}, 
 
     {"id": "132", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO LAMINADO", 
     "keywords": "SET DE PULSERAS CON ORO LAMINADO 132",
     "category": 1, 
@@ -1074,6 +1206,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Hilos con brillo.<br>Hilo encerado. <br>Tres (3) balines de oro laminado tamaño N3mm. <br>Piedra natural turquesa africana."}, 
 
     {"id": "133", 
+    "addi": false,
     "title": "PULSERA OJO TURCO", 
     "keywords": "PULSERA rombo ojo turco 133",
     "category": 1, 
@@ -1082,6 +1215,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano."}, 
 
     {"id": "134", 
+    "addi": false,
     "title": "JOYAS PARA COMPARTIR: ORO 18 KT", 
     "keywords": "JOYAS PARA COMPARTIR: ORO 18 KT pareja roja balin oro 134",
     "category": 10, 
@@ -1090,6 +1224,7 @@ catalog = [
     "description": ""}, 
 
     {"id": "135", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA cilindro cuero 135",
     "category": 7, 
@@ -1098,6 +1233,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Hilo encerado. <br>Cuero natural. <br>Mostacilla japonesa."}, 
 
     {"id": "136", 
+    "addi": false,
     "title": "MAXIARETES CIELO INFINITO", 
     "keywords": "MAXIARETES CIELO INFINITO aretes cielo aretes azules 136",
     "category": 3, 
@@ -1106,6 +1242,7 @@ catalog = [
     "description": "Inspirados en la inmensidad del cielo y sus colores.<br><br><b>Materiales:</b>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
     {"id": "137", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO 18KT", 
     "keywords": "SET DE PULSERAS CON ORO 18KT 137",
     "category": 1, 
@@ -1114,6 +1251,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo. <br>Hilo encerado. <br>Nueve (9) balines de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "138", 
+    "addi": false,
     "title": "MAXIARETES", 
     "keywords": "MAXIARETES aretes hexagonos grandes 138",
     "category": 3, 
@@ -1122,6 +1260,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
     {"id": "139", 
+    "addi": false,
     "title": "MAXIARETES", 
     "keywords": "MAXIARETES aretes hexagonos grandes fucsia topo 139",
     "category": 3, 
@@ -1130,6 +1269,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
     {"id": "140", 
+    "addi": false,
     "title": "COLLAR CHOKER SAGRADO CORAZÓN", 
     "keywords": "COLLAR CHOKER SAGRADO CORAZON 140",
     "category": 2, 
@@ -1138,6 +1278,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Sistema de cierre con herrajes de acero dorado.<br>Medida aproximada del collar entre 35 a 37 cm, con extensión de cadena."}, 
 
     {"id": "141", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS PULSERAS ROJA CORAZON 141",
     "category": 1, 
@@ -1146,6 +1287,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "142", 
+    "addi": false,
     "title": "PULSERA SAGRADO CORAZÓN", 
     "keywords": "PULSERA SAGRADO CORAZÓN PLACA 142",
     "category": 1, 
@@ -1154,6 +1296,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano. <br>Hilos con brillos."}, 
    
     {"id": "143", 
+    "addi": false,
     "title": "PULSERA CORAZÓN", 
     "keywords": "PULSERA CORAZON 4 FILAS TELAR 143",
     "category": 1, 
@@ -1162,6 +1305,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo metalizado.<br>Hilo coreano."}, 
 
     {"id": "144", 
+    "addi": false,
     "title": "JOYAS PARA COMPARTIR", 
     "keywords": "JOYAS PARA COMPARTIR 144",
     "category": 10, 
@@ -1170,6 +1314,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "145", 
+    "addi": false,
     "title": "JOYAS PARA COMPARTIR", 
     "keywords": "JOYAS PARA COMPARTIR 145",
     "category": 10, 
@@ -1178,6 +1323,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "146", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA MARIPOSA 146",
     "category": 1, 
@@ -1186,6 +1332,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo."}, 
 
     {"id": "147", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS 147 CORAZON",
     "category": 1, 
@@ -1194,6 +1341,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "148", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT 148",
     "category": 1, 
@@ -1202,6 +1350,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo.<br>Hilo encerado. <br>Un (1) balin de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "149", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS mariposa 149",
     "category": 1, 
@@ -1210,6 +1359,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo.<br>Hilo encerado."}, 
 
     {"id": "150", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS 150 negra negro caballero hombre",
     "category": 7, 
@@ -1218,6 +1368,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "151", 
+    "addi": false,
     "title": "PULSERA CON ORO 18 KT", 
     "keywords": "PULSERA CON ORO 18 KT 151 verde",
     "category": 7, 
@@ -1226,6 +1377,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa. <br>Hilo encerado.<br>Un (1) balin de oro 18 quilates tamaño N3mm."}, 
 
     {"id": "152", 
+    "addi": false,
     "title": "SET DE PULSERA", 
     "keywords": "SET DE PULSERA 152 corazon",
     "category": 1, 
@@ -1234,6 +1386,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "153", 
+    "addi": false,
     "title": "SET DE PULSERAS CON ORO LAMINADO", 
     "keywords": "SET DE PULSERAS CON ORO LAMINADO 153 sagrado corazon",
     "category": 1, 
@@ -1242,6 +1395,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b>Mostacilla japonesa.<br>Hilo encerado. <br>Dos (2) balines de oro laminado tamaño n3mm."}, 
 
     {"id": "154", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA 154 mariposa",
     "category": 1, 
@@ -1250,6 +1404,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Otros hilos."}, 
 
     {"id": "155", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS 155",
     "category": 1, 
@@ -1258,6 +1413,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "156", 
+    "addi": false,
     "title": "ARETES TOPOS GEOMÉTRICOS", 
     "keywords": "aretes TOPOS GEOMÉTRICOS 156",
     "category": 3, 
@@ -1266,6 +1422,7 @@ catalog = [
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
     
     {"id": "157", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA ancha azul cielo peyote 157",
     "category": 1, 
@@ -1274,6 +1431,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "158", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS 158",
     "category": 1, 
@@ -1282,6 +1440,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "159", 
+    "addi": false,
     "title": "ANILLO", 
     "keywords": "ANILLO gris grande 159",
     "category": 5, 
@@ -1290,6 +1449,7 @@ catalog = [
     "description": "Se realiza a la medida del cliente. <br><br><b>Materiales:</b><br>Mostacilla japonesa."}, 
 
     {"id": "160", 
+    "addi": false,
     "title": "PULSERA SAGRADO CORAZÓN", 
     "keywords": "PULSERA 160 sagrado corazon",
     "category": 7, 
@@ -1298,6 +1458,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano. <br>Piedras naturales."}, 
 
     {"id": "161", 
+    "addi": true,
     "title": "JOYAS PARA COMPARTIR", 
     "keywords": "JOYAS PARA COMPARTIR pulseras pareja 161",
     "category": 1, 
@@ -1306,6 +1467,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "162", 
+    "addi": false,
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS 162",
     "category": 1, 
@@ -1314,6 +1476,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Perla natural."}, 
 
     {"id": "163", 
+    "addi": false,
     "title": "PULSERA", 
     "keywords": "PULSERA 163",
     "category": 1, 
@@ -1322,6 +1485,7 @@ catalog = [
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "164", 
+    "addi": false,
     "title": "CADENA CON DIJE SAGRADO CORAZÓN", 
     "keywords": "CADENA CON DIJE SAGRADO CORAZÓN 164",
     "category": 2, 
@@ -1334,11 +1498,12 @@ catalog = [
 /*
 
     {"id": "", 
+    "addi": false,
     "title": "", 
     "keywords": "",
     "category": , 
     "price" : "$", 
     "image": [".jpg"],
-    "description": ""}, 
+    "description": ""},     
 
 */
