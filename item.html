@@ -8,8 +8,9 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Reem+Kufi:wght@400;500;600;700&display=swap" rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/css2?family=Reem+Kufi:wght@400;500;600;700&display=swap" rel="stylesheet">    
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    
     <link rel="shortcut icon" href="./assets/favicon.svg" type="image/x-icon">
 
     <script src="./data.js"></script>
@@ -38,7 +39,7 @@
     if (product.length > 0){
         let addi = ``
         if (product[0].addi == true){
-            addi = `<div class='addi'><span>Puedes pagar esta joya a <b>crédito</b> con </span><img src='./assets/addi-logo.svg' alt='addi'><span>. </span><a  href='https://wa.me/573001661362?text=Estoy interesada en comprar este accesorio a crédito con Addi: https://valeruki.github.io/catalogo/item.html?id=${product[0].id}' target='_blank'>Contáctanos para conocer cómo.</a></span></div>`
+            addi = `<div class='addi'><span>Puedes pagar esta joya a <b>crédito</b> con </span><img src='./assets/addi-logo.svg' alt='addi'><span>. </span><a  href='https://wa.me/573001661362?text=Estoy interesada en comprar este accesorio a crédito con Addi: https://valeruki.github.io/catalogo/item.html?id=${product[0].id}' target='_blank'>Más información.</a></span></div>`
         }
         for (x = 0; x < product[0].image.length; x++){
             imagesContainer.innerHTML += `<img class='card__img__item' src='./images/${product[0].image[x]}' alt=''>`            
@@ -54,7 +55,7 @@
             <button class='copy' type='button' id="copyLink"><img src='./assets/icon_copy.svg' alt=''></button>        
         </div>        
         
-        <p class='msj'><img src='./assets/icon_hands.svg' alt='valeruki'><span>Joyas tejidas a mano por artesanos de la ciudad de Sincelejo - Sucre.</span></p>
+        <p class='msj'><img src='./assets/icon_hands.svg' alt='valeruki'><span>Joyas tejidas a mano por artesanos de la ciudad de <b>Sincelejo - Sucre - Colombia</b>.</span></p>
         
         <div>${addi}</div>
 

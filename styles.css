@@ -3,7 +3,9 @@
     margin: 0;
     box-sizing: border-box;
     outline: none;
-    font-family: 'Reem Kufi', sans-serif;     
+    /* font-family: 'Reem Kufi', sans-serif;      */
+    font-family: 'Roboto', sans-serif;
+    line-height: 24px;
 }
 
 body{
@@ -16,7 +18,7 @@ h3{
 }
 
 p{
-    font-size: 18px !important;
+    font-size: 16px !important;
 }
 
 .container{        
@@ -120,7 +122,7 @@ p{
     margin: 10px 0 5px 0;
     line-height: 20px;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 700;
     text-align: center;
     text-wrap: balance;
 }
@@ -142,7 +144,7 @@ p{
 .card__main-info__price{
     color: #494949;
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 400;
     font-family: sans-serif;
     text-align: center;
 }
@@ -208,7 +210,7 @@ p{
 }
 
 .filter__title{
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400;
     padding: 10px 0;    
 }
@@ -237,7 +239,7 @@ p{
 
 .list li{
     margin: 5px 0 5px 20px;    
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .wa{
@@ -328,7 +330,7 @@ details > summary {
     list-style: none;
     border-bottom: 1px solid #f0f0f0;
     padding-bottom: 10px;
-    margin-bottom: 5px;
+    margin-bottom: 5px;    
 }
 
 .sans-serif{
@@ -363,7 +365,7 @@ details > summary {
 }
 
 .fs-fix{
-    font-size: 18px !important;
+    font-size: 16px !important;
 }
 
 .c-gray{
