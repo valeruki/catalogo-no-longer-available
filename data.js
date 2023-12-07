@@ -63,7 +63,7 @@ catalog = [
     "title": "SET DE PULSERAS CON ORO DE 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO DE 18 KT 006",
     "category": 1, 
-    "price" : "$110.000", 
+    "price" : "$112.000", 
     "image": ["006-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Tres (3) balines de oro 18 quilates tamaño N°3mm."}, 
 
@@ -90,7 +90,7 @@ catalog = [
     "title": "SET DE PULSERAS CON ORO 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT CORAZON PEYOTE 5 BALINES 009",
     "category": 1, 
-    "price" : "$218.000", 
+    "price" : "$222.000", 
     "image": ["009-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa. <br>Hilos con brillo. <br>Hilo encerado. <br>Siete (7) balines de oro 18 quilates tamaño N3mm.*"}, 
 
@@ -126,7 +126,7 @@ catalog = [
     "title": "SET DE PULSERAS CON ORO 18 KT",
     "keywords": "SET DE PULSERAS CON ORO 18 KT 013", 
     "category": 1, 
-    "price" : "$279.000", 
+    "price" : "$281.000", 
     "image": ["013-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo.<br>Hilo encerado. <br>Siete (7) balines de oro 18 quilates tamaño N4mm."}, 
 
@@ -832,7 +832,7 @@ catalog = [
     "title": "SET DE PULSERAS CON ORO 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT dije cruz peyote 091",
     "category": 1, 
-    "price" : "$115.000", 
+    "price" : "$119.000", 
     "image": ["091-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Dos (2) balines de oro 18 quilates tamaño N4mm."}, 
 
@@ -859,7 +859,7 @@ catalog = [
     "title": "SET DE PULSERAS CON ORO 18KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT azul cielo corazon 094",
     "category": 1, 
-    "price" : "$119.000", 
+    "price" : "$123.000", 
     "image": ["094-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo.<br>Hilo encerado. <br>Tres (3) balines de oro 18 quilates tamaño N3mm."}, 
 
@@ -868,7 +868,7 @@ catalog = [
     "title": "SET DE PULSERAS CON ORO 18 KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT dije sagrado corazon 095",
     "category": 1, 
-    "price" : "$104.000", 
+    "price" : "$108.000", 
     "image": ["095-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado.<br>2 balines de oro 18 quilates N°3mm."}, 
 
@@ -904,7 +904,7 @@ catalog = [
     "title": "SET DE PULSERAS CON ORO 18KT", 
     "keywords": "SET DE PULSERAS CON ORO 18 KT 099",
     "category": 1, 
-    "price" : "$156.000", 
+    "price" : "$158.000", 
     "image": ["099-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado.<br>Seis (6) balines de oro 18 quilates tamaño N3mm."}, 
 
@@ -1246,7 +1246,7 @@ catalog = [
     "title": "SET DE PULSERAS CON ORO 18KT", 
     "keywords": "SET DE PULSERAS CON ORO 18KT 137",
     "category": 1, 
-    "price" : "$224.000", 
+    "price" : "$228.000", 
     "image": ["137-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo. <br>Hilo encerado. <br>Nueve (9) balines de oro 18 quilates tamaño N3mm."}, 
 
