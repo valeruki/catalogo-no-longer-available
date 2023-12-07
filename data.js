@@ -1102,7 +1102,7 @@ catalog = [
     "title": "PULSERA", 
     "keywords": "PULSERA PEYOTE PULSERA ANCHA DROPS GOTAS 121",
     "category": 1, 
-    "price" : "$65.000", 
+    "price" : "$70.000", 
     "image": ["121-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
     
@@ -1480,7 +1480,7 @@ catalog = [
     "title": "PULSERA", 
     "keywords": "PULSERA 163",
     "category": 1, 
-    "price" : "$60.000", 
+    "price" : "$65.000", 
     "image": ["163-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
