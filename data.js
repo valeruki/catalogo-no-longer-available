@@ -914,7 +914,7 @@ catalog = [
     "keywords": " COLLAR CHOKER ESCAPULARIO sagrado corazon 100",
     "category": 2, 
     "price" : "$40.000", 
-    "image": ["100-01.jpg", "100-02.jpg"],
+    "image": ["100-01.jpg", "100-02.jpg", "100-03.jpg"],
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Sistema de cierre con herrajes de acero dorado. <br>Medida aproximada del collar entre 36 a 38 cm."}, 
     
     {"id": "101", 
@@ -1461,7 +1461,7 @@ catalog = [
     "addi": true,
     "title": "JOYAS PARA COMPARTIR", 
     "keywords": "JOYAS PARA COMPARTIR pulseras pareja 161",
-    "category": 1, 
+    "category": 10, 
     "price" : "$110.000", 
     "image": ["161-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
@@ -1492,6 +1492,35 @@ catalog = [
     "price" : "$37.000", 
     "image": ["164-01.jpg"],
     "description": "<b>Materiales:</b><br> Mostacilla japonesa.<br>Cadena de acero dorado, medida aproximada de 40cm. (Los tejidos varian según disponibilidad)."}, 
+
+    // nuevos
+
+    {"id": "165", 
+    "addi": false,
+    "title": "PULSERA SAGRADO CORAZÓN", 
+    "keywords": "PULSERA SAGRADO CORAZoN 165",
+    "category": 1, 
+    "price" : "$25.000", 
+    "image": ["165-01.jpg"],
+    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."},    
+
+    {"id": "166", 
+    "addi": false,
+    "title": "SET DE PULSERA CON BALIN DE ORO 18 KT", 
+    "keywords": "SET DE PULSERA CON BALIN DE ORO 18KT 166",
+    "category": 1, 
+    "price" : "$66.000", 
+    "image": ["166-01.jpg"],
+    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado.<br>Un (1) balin de oro 18kt tamaño N3mm."},    
+
+    {"id": "167", 
+    "addi": false,
+    "title": "PULSERA CRUZ", 
+    "keywords": "PULSERA CRUZ 167",
+    "category": 1, 
+    "price" : "$20.000", 
+    "image": ["167-01.jpg"],
+    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."},     
 
 ]
 
