@@ -577,8 +577,8 @@ catalog = [
 
     {"id": "063", 
     "addi": false,
-    "title": "COLLAR CHOKER CON ORO LAMINADO", 
-    "keywords": "COLLAR CHOKER INICIAL CON ORO LAMINADO dije letra 063",
+    "title": "COLLAR CHOKER CON INICIAL DE NACAR", 
+    "keywords": "COLLAR CHOKER INICIAL DE NACAR CON ORO LAMINADO dije letra 063",
     "category": 2, 
     "price" : "$30.000", 
     "image": ["063-01.jpg"],
@@ -724,7 +724,7 @@ catalog = [
     "title": "SET DE CADENA Y ARETES", 
     "keywords": "SET DE CADENA Y ARETES dije flor girasol 079",
     "category": 2, 
-    "price" : "$45.000", 
+    "price" : "$47.000", 
     "image": ["079-01.jpg"],
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado.<br>Cadena de acero dorado. Medida aproximada de 40cm. (Los tejidos varian según disponibilidad)."}, 
 
@@ -1189,12 +1189,12 @@ catalog = [
     
     {"id": "131", 
     "addi": false,
-    "title": "COLLAR CHOKER CON ORO LAMINADO", 
-    "keywords": "COLLAR CHOKER CON ORO LAMINADO 131",
+    "title": "COLLAR CHOKER CON PIEDRA NATURAL", 
+    "keywords": "COLLAR CHOKER CON PIEDRA NATURAL ORO LAMINADO 131",
     "category": 2, 
-    "price" : "$35.000", 
+    "price" : "$30.000", 
     "image": ["131-01.jpg"],
-    "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Sistema de cierre con herrajes de acero dorado.<br>Medida aproximada de choker entre 35 a 37 cm. <br>2 balines de oro laminado N3mm.<br>Piedra natural Turquesa Africana: Favorece el descanso y la vitalidad."}, 
+    "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Sistema de cierre con herrajes de acero dorado.<br>Medida aproximada de choker entre 35 a 37 cm.<br>Piedra natural Turquesa Africana: Favorece el descanso y la vitalidad."}, 
 
     {"id": "132", 
     "addi": false,
