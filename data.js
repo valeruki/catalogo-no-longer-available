@@ -378,7 +378,7 @@ catalog = [
     "title": "MAXIARETES VERANERAS", 
     "keywords": "MAXIARETES VERANERAS ARETES FLOR FUCSIA FLORES 041",
     "category": 3, 
-    "price" : "$110.000", 
+    "price" : "$115.000", 
     "image": ["041-01.jpg", "041-02.jpg"],
     "description": "Inspirados en la veranera que con su majestuoso color fucsia, embellece nuestras casas y paisajes de la región.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
@@ -553,7 +553,7 @@ catalog = [
     "title": "MAXIARETES", 
     "keywords": "MAXIARETES ARETES GRANDES DORADO ROJO AMARILLO VERDE 060",
     "category": 3, 
-    "price" : "$110.000", 
+    "price" : "$115.000", 
     "image": ["060-01.jpg", "060-02.jpg"],
     "description": "<b>Materiales:</b><br>Mostacilla japonesa. <br>Topos de acero dorado."}, 
 
@@ -562,7 +562,7 @@ catalog = [
     "title": "MAXIARETES", 
     "keywords": "MAXIARETES ARETES AZUL VERDE LILA 061",
     "category": 3, 
-    "price" : "$110.000", 
+    "price" : "$115.000", 
     "image": ["061-01.jpg"],
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado."}, 
 
@@ -598,7 +598,7 @@ catalog = [
     "title": "MAXIARETES CIELO INFINITO", 
     "keywords": "MAXIARETES CIELO INFINITO aretes cielo azul 065",
     "category": 3, 
-    "price" : "$110.000", 
+    "price" : "$115.000", 
     "image": ["065-01.jpg", "065-02.jpg"],
     "description": "Inspirados en la inmensidad del cielo y sus colores.<br><br><b>Materiales:</b>Mostacilla japonesa. <br>Topos de acero dorado."}, 
 
@@ -724,7 +724,7 @@ catalog = [
     "title": "SET DE CADENA Y ARETES", 
     "keywords": "SET DE CADENA Y ARETES dije flor girasol 079",
     "category": 2, 
-    "price" : "$47.000", 
+    "price" : "$48.000", 
     "image": ["079-01.jpg"],
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado.<br>Cadena de acero dorado. Medida aproximada de 40cm. (Los tejidos varian según disponibilidad)."}, 
 
