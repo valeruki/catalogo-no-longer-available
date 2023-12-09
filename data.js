@@ -60,8 +60,8 @@ catalog = [
 
     {"id": "006", 
     "addi": true,
-    "title": "SET DE PULSERAS CON ORO DE 18 KT", 
-    "keywords": "SET DE PULSERAS CON ORO DE 18 KT 006",
+    "title": "SET DE PULSERAS CON ORO 18 KT", 
+    "keywords": "SET DE PULSERAS CON ORO 18 KT 006",
     "category": 1, 
     "price" : "$112.000", 
     "image": ["006-01.jpg"],
@@ -249,12 +249,12 @@ catalog = [
 
     {"id": "027", 
     "addi": false,
-    "title": "SET DE PULSERAS", 
-    "keywords": "SET DE PULSERAS SWAROSKI TILA LILA ENFILADA 027",
+    "title": "SET DE PULSERAS CON ORO LAMINADO", 
+    "keywords": "SET DE PULSERAS ORO LAMINAD SWAROSKI TILA LILA ENFILADA 027",
     "category": 1, 
     "price" : "$48.000", 
     "image": ["027-01.jpg"],
-    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Aplique de cristal de Swaroski."}, 
+    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Aplique de cristal de Swaroski.<br>(2) balines de oro laminado tamaño N3mm."}, 
 
     {"id": "028", 
     "addi": false,
@@ -461,7 +461,7 @@ catalog = [
     "title": "ANILLO", 
     "keywords": "ANILLO NEGRO ROMBO 050",
     "category": 5, 
-    "price" : "$35.000", 
+    "price" : "$37.000", 
     "image": ["050-01.jpg", "050-02.jpg"],
     "description": "Se realiza a la medida del cliente. <br><br><b>Materiales:</b><br>Mostacilla japonesa."}, 
 
@@ -1324,7 +1324,7 @@ catalog = [
 
     {"id": "146", 
     "addi": false,
-    "title": "PULSERA", 
+    "title": "PULSERA MARIPOSA", 
     "keywords": "PULSERA MARIPOSA 146",
     "category": 1, 
     "price" : "$30.000", 
@@ -1572,7 +1572,7 @@ catalog = [
     "title": "TOBILLERA CON INICIAL", 
     "keywords": "TOBILLERA CON INICIAL 173",
     "category": 4, 
-    "price" : "$23.000", 
+    "price" : "$25.000", 
     "image": ["173-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu tobillo. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano."}, 
 
@@ -1612,6 +1612,7 @@ catalog = [
     "image": ["177-01.jpg"],
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Cadena de acero dorado, medida aproximada de 40cm. (Los tejidos varian según disponibilidad)."}, 
 
+    /*
     {"id": "178", 
     "addi": false,
     "title": "PULSERA OLAS MARINAS", 
@@ -1620,6 +1621,7 @@ catalog = [
     "price" : "$37.000", 
     "image": ["178-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."},  
+    */
 
     {"id": "179", 
     "addi": false,
@@ -1647,6 +1649,15 @@ catalog = [
     "price" : "$30.000", 
     "image": ["190-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu tobillo.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano."},  
+
+    {"id": "191", 
+    "addi": false,
+    "title": "ANILLO", 
+    "keywords": "ANILLO 191",
+    "category": 5, 
+    "price" : "$35.000", 
+    "image": ["191-01.jpg"],
+    "description": "Se realiza a la medida del cliente.<br><br><b>Materiales:</b><br>Mostacilla japonesa."},   
 
 ]
 
