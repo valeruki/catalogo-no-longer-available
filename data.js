@@ -252,9 +252,9 @@ catalog = [
     "title": "SET DE PULSERAS CON ORO LAMINADO", 
     "keywords": "SET DE PULSERAS ORO LAMINAD SWAROSKI TILA LILA ENFILADA 027",
     "category": 1, 
-    "price" : "$48.000", 
+    "price" : "$54.000", 
     "image": ["027-01.jpg"],
-    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Aplique de cristal de Swaroski.<br>(2) balines de oro laminado tamaño N3mm."}, 
+    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado. <br>Aplique de cristal de Swaroski.<br>Dos (2) balines de oro laminado tamaño N3mm."}, 
 
     {"id": "028", 
     "addi": false,
@@ -267,7 +267,7 @@ catalog = [
 
     {"id": "029", 
     "addi": false,
-    "title": "PULSERAS", 
+    "title": "PULSERA", 
     "keywords": "PULSERA COLORIDA COLORINCHE 1 FILA 029",
     "category": 1, 
     "price" : "$15.000", 
@@ -384,8 +384,8 @@ catalog = [
 
     {"id": "042", 
     "addi": false,
-    "title": "PULSERA", 
-    "keywords": "PULSERA NOMBRE TELAR 042",
+    "title": "PULSERA CON NOMBRE", 
+    "keywords": "PULSERA CON NOMBRE TELAR 042",
     "category": 1, 
     "price" : "$25.000", 
     "image": ["042-01.jpg"],
@@ -1378,8 +1378,8 @@ catalog = [
 
     {"id": "152", 
     "addi": false,
-    "title": "SET DE PULSERA", 
-    "keywords": "SET DE PULSERA 152 corazon",
+    "title": "SET DE PULSERAS", 
+    "keywords": "SET DE PULSERAS 152 corazon",
     "category": 1, 
     "price" : "$71.000", 
     "image": ["152-01.jpg"],
@@ -1506,8 +1506,8 @@ catalog = [
 
     {"id": "166", 
     "addi": false,
-    "title": "SET DE PULSERA CON BALIN DE ORO 18 KT", 
-    "keywords": "SET DE PULSERA CON BALIN DE ORO 18KT 166",
+    "title": "SET DE PULSERAS CON BALIN DE ORO 18 KT", 
+    "keywords": "SET DE PULSERAS CON BALIN DE ORO 18KT 166",
     "category": 1, 
     "price" : "$66.000", 
     "image": ["166-01.jpg"],
@@ -1766,6 +1766,15 @@ catalog = [
     "price" : "$33.000", 
     "image": ["203-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."},
+
+    {"id": "204", 
+    "addi": true,
+    "title": "SET DE PULSERAS CON ORO 18 KT", 
+    "keywords": "SET DE PULSERAS CON ORO 18 KT 204",
+    "category": 1, 
+    "price" : "$282.000", 
+    "image": ["204-01.jpg"],
+    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo.<br>Hilo encerado.<br>Nueve (9) balines de oro 18 quilates tamaño N3mm."},
 
 ]
 
