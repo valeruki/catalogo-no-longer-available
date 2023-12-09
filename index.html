@@ -27,7 +27,7 @@
             <div class="searcher">
                 <input id="searchInput" class="input-txt" type="search" placeholder="Buscar...">                           
                 <button id="filtersBtn" class="btn" type="button">
-                    <img src="./assets/icon_bars.png" alt="Icon Bars"> 
+                    <img src="./assets/icon_bars.svg" alt="Icon Bars"> 
                  </button>     
             </div>
             
@@ -47,13 +47,13 @@
                     <div id="plus2"></div>
                     <p class="filter__item" data-id="0">TODAS LAS JOYAS</p>
                 </div>                
-            </div>
+            </div>            
         </div>        
 
         <main class="main">
             <!-- card -->
             <template id="cardTemplate">
-                <a class="card">
+                <a class="card card-2col">
                     <div class="card__img__container">
                                             
                     </div>
@@ -63,9 +63,26 @@
                         <span class="card__main-info__price">Price</span>                        
                     </div>                   
                 </a>
-            </template>           
-            
+            </template>            
         </main>
+
+        <footer class="footer">
+            <div class="cols-wrapper">
+                <button class="btn-col" type="button" id="btnCol1"><img src="./assets/icon_1col.svg" alt=""></button>
+                <button class="btn-col" type="button" id="btnCol2"><img src="./assets/icon_2col.svg" alt=""></button>
+                <button class="btn-col" type="button" id="btnOrder"><img src="./assets/icon_order.svg" alt=""></button>
+                <div class="order-list hidden">
+                    <ul>
+                        <li class="order-list__item" data-order="1">Precio: Menor a mayor</li>
+                        <li class="order-list__item" data-order="2">Precio: Mayor a Menor</li>
+                        <li class="order-list__item" data-order="3">Nombre: A - Z</li>
+                        <li class="order-list__item" data-order="4">Nombre: Z - A</li>
+                        <li class="order-list__item" data-order="5">Más reciente a más antiguo</li>
+                        <li class="order-list__item" data-order="6">Más antiguo a más reciente</li>
+                    </ul>
+                </div>
+            </div>            
+        </footer>
     </div>
 </body>
 </html>

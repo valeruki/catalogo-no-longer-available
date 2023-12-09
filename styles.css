@@ -46,8 +46,9 @@ p{
     position: sticky;
     top: 0px;
     background-color: #fff;
-    box-shadow: 0 0 10px 10px #fff;
-    padding-bottom: 10px;
+    /* box-shadow: 0 0 10px 10px #fff; */
+    padding-bottom: 16px;
+    border-bottom: 1px solid #bebebe;
     padding-top: 5px;    
     margin: 0 auto;
 }
@@ -86,22 +87,35 @@ p{
 }
 
 .main{    
-    padding: 5px;
+    padding: 5px 5px 50px 5px;
     display: flex;
     flex-wrap: wrap;
 
 }
 
 .card{
-    min-width: 50%;
-    max-width: 50%;
-    height: 260px;
     background-color: white;
     border-radius: 4px;
     padding: 10px;
     margin-bottom: 20px;
     text-decoration: none;
     color: #161616;
+}
+
+.card-2col{
+    min-width: 50%;
+    max-width: 50%;
+    height: 260px;
+}
+
+.card-1col{
+    min-width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+.card-1col > .card__img__container > img{
+    height: auto !important;
 }
 
 .card__img{
@@ -422,4 +436,63 @@ details > summary {
 .addi > img{
     height: 14px;
     margin-left: 5px;
+}
+
+.cols-wrapper{    
+    position: relative;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-col{
+    box-shadow:
+    0 1px 1px hsl(0deg 0% 0% / 0.075),
+    0 2px 2px hsl(0deg 0% 0% / 0.075),
+    0 4px 4px hsl(0deg 0% 0% / 0.075),
+    0 8px 8px hsl(0deg 0% 0% / 0.075);
+    border: none;
+    border-radius: 4px;
+    padding: 6px 8px;
+    background-color: #fff;
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+    width: 100%;
+    padding: 10px 0;
+    border-top: 1px solid #bebebe;    
+}
+
+.order-list{
+    position: absolute;
+    bottom: 55px;
+    left: 50%;
+    width: 80%;
+    transform: translateX(-50%);
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow:
+    0 1px 1px hsl(0deg 0% 0% / 0.075),
+    0 2px 2px hsl(0deg 0% 0% / 0.075),
+    0 4px 4px hsl(0deg 0% 0% / 0.075),
+    0 8px 8px hsl(0deg 0% 0% / 0.075);
+}
+
+.order-list > ul{
+    list-style: none;
+}
+
+.order-list > ul > li{
+    margin: 12px 0;
 }

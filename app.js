@@ -15,6 +15,13 @@ const filterGroupInfantil = document.querySelector('#groupInfantil')
 const plus1 = document.querySelector('#plus1')
 const plus2 = document.querySelector('#plus2')
 
+const btnCol1 = document.querySelector('#btnCol1')
+const btnCol2 = document.querySelector('#btnCol2')
+const btnOrder = document.querySelector('#btnOrder')
+
+const orderList = document.querySelector('.order-list')
+const orderlistItems = document.querySelectorAll('.order-list__item')
+
 // load filter options ********************************************
 
 categories.map((i) => { 
@@ -76,6 +83,39 @@ const filterInCatalog = (selected) => {
     }    
 }
 
+const orderCatalog = (order) => {
+    let catalogToOrder =  null
+    const url = new URL(window.location.href)    
+    let catId = url.searchParams.get('cat')
+
+    if (catId > 0){
+        catalogToOrder = catalog.filter(item => item.category == catId)
+    }else{
+        catalogToOrder = catalog
+    }
+
+    let catalogOrdered = catalogToOrder
+    if (order == 6){catalogOrdered = catalogToOrder.sort((a, b) => a.id - b.id)}
+    if (order == 5){catalogOrdered = catalogToOrder.sort((a, b) => b.id - a.id)}
+    if (order == 4){catalogOrdered = catalogToOrder.sort((a, b) => b.title.localeCompare(a.title))}
+    if (order == 3){catalogOrdered = catalogToOrder.sort((a, b) => a.title.localeCompare(b.title))}
+    if (order == 2){
+        catalogOrdered = catalogToOrder.sort((a, b) => {
+            let aPrice = a.price.replace(/[\$.,]/g, '')
+            let bPrice = b.price.replace(/[\$.,]/g, '')            
+            return parseInt(bPrice) - parseInt(aPrice)
+        })
+    }    
+    if (order == 1){
+        catalogOrdered = catalogToOrder.sort((a, b) => {
+            let aPrice = a.price.replace(/[\$.,]/g, '')
+            let bPrice = b.price.replace(/[\$.,]/g, '')            
+            return parseInt(aPrice) - parseInt(bPrice)
+        })
+    }    
+    loadCatalog(catalogOrdered)
+}
+
 // Listeners *************************************************************
 
 window.addEventListener('DOMContentLoaded', () => {
@@ -118,5 +158,32 @@ for (let i = 0; i < filterItems.length; i++){
             left: 0,
             behavior: 'smooth'
         })
+    })
+}
+
+btnCol1.addEventListener('click', () => {
+    const cards = document.querySelectorAll('.card')    
+    for (let i = 0; i < cards.length; i++){
+        cards[i].classList.remove('card-2col')
+        cards[i].classList.add('card-1col')
+    }
+})
+
+btnCol2.addEventListener('click', () => {
+    const cards = document.querySelectorAll('.card')    
+    for (let i = 0; i < cards.length; i++){
+        cards[i].classList.remove('card-1col')
+        cards[i].classList.add('card-2col')
+    }
+})
+
+btnOrder.addEventListener('click', () => {
+    orderList.classList.toggle('hidden')
+})
+
+for (let i = 0; i < orderlistItems.length; i++){
+    orderlistItems[i].addEventListener('click', () => {
+        orderList.classList.toggle('hidden')
+        orderCatalog(orderlistItems[i].getAttribute('data-order'))
     })
 }
