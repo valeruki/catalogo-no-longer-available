@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./styles.css">
+    <link rel="stylesheet" href="./styles.css?v=18">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,7 +17,17 @@
     
     <title>Joya tejida a mano - VALERUKI</title>
 </head>
-<body>
+<body>            
+    <header class="header-item">
+        <a class="btn-back" href="./index.html"><img class="rotate" src="./assets/icon_angle.png" alt="">Volver al Inicio</a>   
+        <!-- <a id="shopping" class="btn fix-btn" href="./shopping.html">  
+            <div class="shop-noti">
+                <span class="shop-noti__item">0</span>
+                <img class="fix-btn__img" src="./assets/icon_addshop.svg" alt="Icon Bars">                 
+            </div>              
+        </a>        -->
+    </header>
+
     <div class="container">        
         <div id="productContainer">
             <div class="relative" id="smallId"></div>                
@@ -53,6 +63,7 @@
         <div class='container-btns'>
             <a  href='https://wa.me/573001661362?text=Estoy interesada en este accesorio: https://valeruki.github.io/catalogo/item.html?id=${product[0].id}' target='_blank' class='btn wa'><div class='wa-left'><img src='./assets/icon_wa.svg' alt=''></div><div class='wa-right'>Me interesa</div></a>                                                
             <button class='copy' type='button' id="copyLink"><img src='./assets/icon_copy.svg' alt=''></button>        
+            <button class='copy' type='button' id="addShop" data-id=${product[0].id}><img src='./assets/icon_addshop.svg' alt=''></button>        
         </div>        
         
         <p class='msj'><img src='./assets/icon_hands.svg' alt='valeruki'><span>Joyas tejidas a mano por artesanos de la ciudad de <b>Sincelejo - Sucre - Colombia</b>.</span></p>
@@ -89,11 +100,27 @@
         productContainer.innerHTML = "<h2>Sin información.</h2>"
     }
 
-    const btnCopyLink = document.querySelector('#copyLink')
+    // listeners:
 
+    const btnCopyLink = document.querySelector('#copyLink')
     btnCopyLink.addEventListener('click', () => {
         navigator.clipboard.writeText(url)
         btnCopyLink.innerHTML = "<img src='./assets/icon_check.svg' alt=''>"
+    })
+
+    const btnAddShop = document.querySelector('#addShop')
+    btnAddShop.addEventListener('click', () => {
+        let actualStorage = window.localStorage.getItem('items')
+        let storageArr = []
+        if (actualStorage !== null){
+            storageArr = actualStorage.split(',')
+            storageArr.push(btnAddShop.getAttribute('data-id'))
+        }else{
+            storageArr.push(btnAddShop.getAttribute('data-id'))
+        }
+
+        window.localStorage.setItem('items', storageArr)
+        btnAddShop.innerHTML = "<img src='./assets/icon_check.svg' alt=''>"
     })
     
 </script>

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./styles.css?v=18">
+    
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Reem+Kufi:wght@400;500;600;700&display=swap" rel="stylesheet">    
+        <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+        
+        <link rel="shortcut icon" href="./assets/favicon.svg" type="image/x-icon">
+    
+        <script src="./data.js"></script>
+        
+        <title>Carrito de compras - VALERUKI</title>
+    </head>
+<body>
+    <div class="shopping-header">
+        <a href="./index.html"><img class="rotate" src="./assets/icon_angle.png" alt="">Volver</a>
+        <h1>Carrito de Compras</h1>
+    </div>
+    <main class="main">
+        <template id="miniCardTemplate">
+            <div class="mini-card__wrapper">
+                <button class="mini-card__btn" id="miniCardBtn" type="button" data-id=""><img src="./assets/icon_close.png" alt=""></button>
+                <a class="mini-card" href="#">
+                    <img id="miniCardImg" src="" alt="VALERUKI">
+                    <div class="mini-card__info">
+                        <h1 id="miniCardTitle"></h1>
+                        <h2 id="miniCardPrice"></h2>
+                    </div>
+                </a>    
+            </div>
+        </template>    
+    </main>    
+
+    <footer class="footer-shopping">
+        <div><h2 class="footer-shopping__title">Total:</h2><span class="footer-shopping__price">$0</span></div>
+        <div class="footer-shopping__wraper">
+            <a id="btnWAShopping" type="button" class="footer-shopping__btn"><img src='./assets/icon_wa.svg' alt=''>Enviar por WhatsApp</a>            
+        </div>
+    </footer>
+</body>
+</html>
+
+<script>
+    const url = new URL(window.location.href)
+    const params = url.searchParams
+    let items = []
+    let itemsListtoURL = ''
+    totalPrices = 0
+    let itemsParam = params.get('items')
+    if (itemsParam !== null){
+        items = itemsParam.split(',')
+        console.log(items)
+    }else{
+        try {
+            items = window.localStorage.getItem('items').split(',')            
+        } catch (error) {
+            console.error('No hay datos en el LocalStorage.')
+        }
+    }
+
+    const miniCardTemplate = document.querySelector('#miniCardTemplate').content
+    let fragment = document.createDocumentFragment()
+    const main = document.querySelector('.main')
+    let shoppingCatalog = []    
+    
+    const btnWAShopping = document.querySelector('#btnWAShopping')
+    const total = document.querySelector('.footer-shopping__price')
+    
+    if (items.length > 0){
+        main.innerHTML = ''
+        for(let i = 0; i < items.length; i++){  
+            
+            if (i + 1 < items.length){
+                itemsListtoURL += items[i] + ','
+            }else{
+                itemsListtoURL += items[i]
+            }
+            
+            shoppingCatalog.push(catalog.filter(item => item.id == items[i]))
+
+            try {
+                let cloneTemplate = miniCardTemplate.cloneNode(true)            
+                cloneTemplate.querySelector('.mini-card').setAttribute('href', `https://valeruki.github.io/catalogo/item.html?id=${items[i]}`)
+                cloneTemplate.querySelector('#miniCardImg').setAttribute('src', './images/' + (catalog.filter(item => item.id == items[i]))[0].image[0]) 
+                cloneTemplate.querySelector('#miniCardTitle').innerHTML = (catalog.filter(item => item.id == items[i]))[0].title
+                cloneTemplate.querySelector('#miniCardPrice').innerHTML = (catalog.filter(item => item.id == items[i]))[0].price
+                if(itemsParam == null){
+                    cloneTemplate.querySelector('#miniCardBtn').setAttribute('data-id', items[i])                
+                    cloneTemplate.querySelector('#miniCardBtn').setAttribute('data-price', (catalog.filter(item => item.id == items[i]))[0].price)
+                }else{
+                    cloneTemplate.querySelector('#miniCardBtn').style.display = 'none'
+                }
+
+                let thisPrice = ((catalog.filter(item => item.id == items[i]))[0].price).replace(/[\$.,]/g, '')
+                totalPrices += parseInt(thisPrice)
+                fragment.appendChild(cloneTemplate)   
+            } catch (error) {
+                console.error(error)
+            }            
+        }
+    }       
+    main.appendChild(fragment)   
+
+    // footer actios and info:    
+    btnWAShopping.setAttribute('href', `https://wa.me/573001661362?text=Estoy interesada en estos productos: https://valeruki.github.io/catalogo/shopping.html?items=${itemsListtoURL}`)    
+    btnWAShopping.setAttribute('target', 'blank')
+
+    total.textContent = `${totalPrices.toLocaleString('es-CO', { style: 'currency', currency: 'COP',minimumFractionDigits: 0, maximumFractionDigits: 0})}`
+    
+
+    // btn Eliminar del Storage
+    const btnMiniCard = document.querySelectorAll('.mini-card__btn')
+    for (let i = 0; i < btnMiniCard.length; i++){
+        btnMiniCard[i].addEventListener('click', () => {            
+            const itemToDelete = items.indexOf(btnMiniCard[i].getAttribute('data-id'))
+            if (itemToDelete !== -1){
+                items.splice(itemToDelete, 1)
+            }
+            try {
+                window.localStorage.setItem('items', items)                
+                const miniCardToDelete = btnMiniCard[i].parentElement
+                miniCardToDelete.remove()
+                const thisBtnPrice = btnMiniCard[i].getAttribute('data-price')
+                totalPricesUp = totalPrices - parseInt(thisBtnPrice.replace(/[\$.,]/g, ''))
+                total.textContent = `${totalPricesUp.toLocaleString('es-CO', { style: 'currency', currency: 'COP',minimumFractionDigits: 0, maximumFractionDigits: 0})}`
+                totalPrices = totalPricesUp
+            } catch (error) {
+                console.error(error)
+            }
+        })
+    }    
+</script>
