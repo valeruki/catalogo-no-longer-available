@@ -117,7 +117,8 @@
     // btn Eliminar del Storage
     const btnMiniCard = document.querySelectorAll('.mini-card__btn')
     for (let i = 0; i < btnMiniCard.length; i++){
-        btnMiniCard[i].addEventListener('click', () => {            
+        btnMiniCard[i].addEventListener('click', () => {    
+            let newItemsListtoURL = ''
             const itemToDelete = items.indexOf(btnMiniCard[i].getAttribute('data-id'))
             if (itemToDelete !== -1){
                 items.splice(itemToDelete, 1)
@@ -130,6 +131,15 @@
                 totalPricesUp = totalPrices - parseInt(thisBtnPrice.replace(/[\$.,]/g, ''))
                 total.textContent = `${totalPricesUp.toLocaleString('es-CO', { style: 'currency', currency: 'COP',minimumFractionDigits: 0, maximumFractionDigits: 0})}`
                 totalPrices = totalPricesUp
+                //update WA link:
+                for(let i = 0; i < items.length; i++){              
+                    if (i + 1 < items.length){
+                        newItemsListtoURL += items[i] + ','
+                    }else{
+                        newItemsListtoURL += items[i]
+                    }
+                }
+                btnWAShopping.setAttribute('href', `https://wa.me/573001661362?text=Estoy interesada en estos productos: https://valeruki.github.io/catalogo/shopping.html?items=${newItemsListtoURL}`)    
             } catch (error) {
                 console.error(error)
             }
