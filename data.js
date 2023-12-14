@@ -942,7 +942,7 @@ catalog = [
     "category": 2, 
     "price" : "$45.000", 
     "image": ["103-01.jpg"],
-    "description": "<b>Materiales:</b>Mostacilla japonesa.<br>Sistema de cierre con herrajes de acero dorado. <br>Medida aproximada del collar entre 36 a 38 cm."}, 
+    "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Sistema de cierre con herrajes de acero dorado. <br>Medida aproximada del collar entre 36 a 38 cm."}, 
 
     {"id": "104", 
     "addi": false,
@@ -1775,6 +1775,33 @@ catalog = [
     "price" : "$282.000", 
     "image": ["204-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo.<br>Hilo encerado.<br>Nueve (9) balines de oro 18 quilates tamaño N3mm."},
+
+    {"id": "205", 
+    "addi": false,
+    "title": "PULSERA CON INICIAL", 
+    "keywords": "PULSERA CON INICIAL 205",
+    "category": 1, 
+    "price" : "$17.000", 
+    "image": ["205-01.jpg", "205-02.jpg"],
+    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano.<br>Letra nácar.<br>Piedra natural: Rodonita"},
+
+    {"id": "206", 
+    "addi": false,
+    "title": "SET DE PULSERA CON ORO 18KT", 
+    "keywords": "SET DE PULSERA CON ORO 18KT 206",
+    "category": 7, 
+    "price" : "$65.000", 
+    "image": ["206-01.jpg"],
+    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>. Hilo encerado.<br>Cuero natural.<br>Un (1) balin de oro 18 quilates tamaño N3mm."},
+
+    {"id": "207", 
+    "addi": false,
+    "title": "COLLAR CHOKER", 
+    "keywords": "COLLAR CHOKER 207",
+    "category": 2, 
+    "price" : "$30.000", 
+    "image": ["207-01.jpg"],
+    "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Sistema de cierre con herrajes de acero dorado.<br>Medida aproximada del collar entre 35 a 37 cm, con extensión de cadena."},
 
 ]
 
