@@ -234,7 +234,7 @@ catalog = [
     "title": "PULSERA", 
     "keywords": "PULSERA DROPS LAGRIMAS PEYOTE 025",
     "category": 1, 
-    "price" : "$35.000", 
+    "price" : "$37.000", 
     "image": ["025-01.jpg", "025-02.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
@@ -1282,7 +1282,7 @@ catalog = [
     "title": "SET DE PULSERAS", 
     "keywords": "SET DE PULSERAS PULSERAS ROJA CORAZON 141",
     "category": 1, 
-    "price" : "$48.000", 
+    "price" : "$53.000", 
     "image": ["141-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
@@ -1480,7 +1480,7 @@ catalog = [
     "title": "PULSERA", 
     "keywords": "PULSERA 163",
     "category": 1, 
-    "price" : "$65.000", 
+    "price" : "$60.000", 
     "image": ["163-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
@@ -1754,7 +1754,7 @@ catalog = [
     "title": "SET DE PULSERAS CON INICIAL", 
     "keywords": "SET DE PULSERAS CON INICIAL letra l 202",
     "category": 1, 
-    "price" : "$53.000", 
+    "price" : "$55.000", 
     "image": ["202-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."},
 
