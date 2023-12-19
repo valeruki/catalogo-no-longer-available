@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./styles.css?v=18">
+    <link rel="stylesheet" href="./styles.css?v=19">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,23 +17,25 @@
     
     <title>Joya tejida a mano - VALERUKI</title>
 </head>
-<body>            
-    <header class="header-item">
-        <a class="btn-back" href="./index.html"><img class="rotate" src="./assets/icon_angle.png" alt="">Volver al Inicio</a>   
-        <!-- <a id="shopping" class="btn fix-btn" href="./shopping.html">  
-            <div class="shop-noti">
-                <span class="shop-noti__item">0</span>
-                <img class="fix-btn__img" src="./assets/icon_addshop.svg" alt="Icon Bars">                 
-            </div>              
-        </a>        -->
-    </header>
+<body>   
+    <div class="layout">
+        <header class="header-item">
+            <a class="btn-back" href="./index.html"><img class="rotate" src="./assets/icon_angle.png" alt="">Volver al Inicio</a>   
+            <!-- <a id="shopping" class="btn fix-btn" href="./shopping.html">  
+                <div class="shop-noti">
+                    <span class="shop-noti__item">0</span>
+                    <img class="fix-btn__img" src="./assets/icon_addshop.svg" alt="Icon Bars">                 
+                </div>              
+            </a>        -->
+        </header>
 
-    <div class="container">        
-        <div id="productContainer">
-            <div class="relative" id="smallId"></div>                
-            <div id="imagesContainer"></div>            
-        </div>           
-    </div>
+        <div class="container">        
+            <div id="productContainer">
+                <div class="relative" id="smallId"></div>                
+                <div id="imagesContainer"></div>            
+            </div>           
+        </div>
+    </div>         
 </body>
 </html>
 
@@ -49,7 +51,7 @@
     if (product.length > 0){
         let addi = ``
         if (product[0].addi == true){
-            addi = `<div class='addi'><span>Puedes pagar esta joya a <b>crédito</b> con </span><img src='./assets/addi-logo.svg' alt='addi'><span>. </span><a  href='https://wa.me/573001661362?text=Estoy interesada en comprar este accesorio a crédito con Addi: https://valeruki.github.io/catalogo/item.html?id=${product[0].id}' target='_blank'>Más información.</a></span></div>`
+            addi = `<div class='addi'><span>Puedes pagar esta joya a <b>crédito</b> con </span><img src='./assets/addi-logo.svg' alt='addi'><span>. </span><a  href='https://wa.me/573001661362?text=Estoy interesada en comprar este accesorio a crédito con Addi: https://valeruki.github.io/catalogo/item.html?id=${product[0].id}' target='_blank'>Más información aquí.</a></span></div>`
         }
         for (x = 0; x < product[0].image.length; x++){
             imagesContainer.innerHTML += `<img class='card__img__item' src='./images/${product[0].image[x]}' alt=''>`            
@@ -60,15 +62,16 @@
         <h4 class="card__main-info__cat">${categories.filter(c => c.id == product[0].category)[0].name} ${categories.filter(c => c.id == product[0].category)[0].group}</h4>
         <h4 class="c-gray sans-serif mt-fix">${product[0].price}</h4>
         
-        <div class='container-btns'>
-            <a  href='https://wa.me/573001661362?text=Estoy interesada en este accesorio: https://valeruki.github.io/catalogo/item.html?id=${product[0].id}' target='_blank' class='btn wa'><div class='wa-left'><img src='./assets/icon_wa.svg' alt=''></div><div class='wa-right'>Me interesa</div></a>                                                
-            <button class='copy' type='button' id="copyLink"><img src='./assets/icon_copy.svg' alt=''></button>        
-            <button class='copy' type='button' id="addShop" data-id=${product[0].id}><img src='./assets/icon_addshop.svg' alt=''></button>        
-        </div>        
+        <a  href='https://wa.me/573001661362?text=Estoy interesada en este accesorio: https://valeruki.github.io/catalogo/item.html?id=${product[0].id}' target='_blank' class='btn wa'><div class='wa-left'><img src='./assets/icon_wa.svg' alt=''></div><div class='wa-right'>Solicitar por WhatsApp</div></a>                                                
+        <button class='copy' type='button' id="copyLink"><img class='mr-fix' src='./assets/icon_copy.svg' alt=''>Copiar enlace</button>        
+        <button class='copy' type='button' id="addShop" data-id=${product[0].id}><img class='mr-fix' src='./assets/icon_addshop.svg' alt=''>Agregar al carrito</button>        
+        <br>
         
         <p class='msj'><img src='./assets/icon_hands.svg' alt='valeruki'><span>Joyas tejidas a mano por artesanos de la ciudad de <b>Sincelejo - Sucre - Colombia</b>.</span></p>
         
         <div>${addi}</div>
+
+        <br>
 
         <p>${product[0].description}</p>
 

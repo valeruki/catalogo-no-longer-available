@@ -47,12 +47,12 @@ p{
     z-index: 50;
     top: 0px;
     background-color: #fff;    
-    border-bottom: 1px solid #bebebe;
+    box-shadow: 0px 5px 3px -5px #9c9c9c;
     padding: 4px 0;
     margin: 0 auto;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-between;    
 }
 
 .searcher{           
@@ -92,7 +92,7 @@ p{
     font-size: 18px;
     width: 100%;
     margin: 0 5px;
-    border: 1px solid #b4b4b4;    
+    border: 1px solid #d1d1d1;    
     border-radius: 4px;
 }
 
@@ -287,6 +287,11 @@ p{
     0 8px 8px hsl(0deg 0% 0% / 0.075);
 }
 
+.layout{
+    max-width: 420px;
+    margin: 0 auto;
+}
+
 .wa-left{
     padding: 12px 12px 6px 12px;
     background-color: #075E54;
@@ -370,8 +375,12 @@ details > summary {
     margin-top: 6px;
 }
 
+.mr-fix{
+    margin-right: 8px;
+}
+
 .copy{
-    width: 64px;
+    width: 100%;
     margin-top: 15px;    
     padding: 8px;
     display: flex;
@@ -472,19 +481,20 @@ details > summary {
 
 .footer{
     position: fixed;
-    bottom: 0;
-    left: 0;
-    background-color: #fff;
-    width: 100%;
-    padding: 6px 0;
-    border-top: 1px solid #bebebe;    
+    bottom: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #fff;    
+    padding: 6px 10px;
+    border-radius: 8px;
+    box-shadow: -1px 1px 2px #9c9c9c;
 }
 
 .order-list{
     position: absolute;
-    bottom: 55px;
+    bottom: 50px;
     left: 50%;
-    width: 80%;
+    width: 300px;
     transform: translateX(-50%);
     background-color: #fff;
     padding: 15px;
@@ -625,8 +635,8 @@ details > summary {
 
 .shop-noti__item{
     position: absolute;
-    top: 1px;
-    right: 1px;
+    top: 6px;
+    right: 12px;
     background-color: #cc6161;
     color: #fff;
     font-size: 10px;
