@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="./styles.css?v=18">
+        <link rel="stylesheet" href="./styles.css?v=19">
     
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -18,31 +18,33 @@
         <title>Carrito de compras - VALERUKI</title>
     </head>
 <body>
-    <div class="shopping-header">
-        <a href="./index.html"><img class="rotate" src="./assets/icon_angle.png" alt="">Volver</a>
-        <h1>Carrito de Compras</h1>
-    </div>
-    <main class="main">
-        <template id="miniCardTemplate">
-            <div class="mini-card__wrapper">
-                <button class="mini-card__btn" id="miniCardBtn" type="button" data-id=""><img src="./assets/icon_close.png" alt=""></button>
-                <a class="mini-card" href="#">
-                    <img id="miniCardImg" src="" alt="VALERUKI">
-                    <div class="mini-card__info">
-                        <h1 id="miniCardTitle"></h1>
-                        <h2 id="miniCardPrice"></h2>
-                    </div>
-                </a>    
-            </div>
-        </template>    
-    </main>    
-
-    <footer class="footer-shopping">
-        <div><h2 class="footer-shopping__title">Total:</h2><span class="footer-shopping__price">$0</span></div>
-        <div class="footer-shopping__wraper">
-            <a id="btnWAShopping" type="button" class="footer-shopping__btn"><img src='./assets/icon_wa.svg' alt=''>Enviar por WhatsApp</a>            
+    <div class="layout">
+        <div class="shopping-header">
+            <a href="./index.html"><img class="rotate" src="./assets/icon_angle.png" alt="">Volver</a>
+            <h1>Carrito de Compras</h1>
         </div>
-    </footer>
+        <main class="main">
+            <template id="miniCardTemplate">
+                <div class="mini-card__wrapper">
+                    <button class="mini-card__btn" id="miniCardBtn" type="button" data-id=""><img src="./assets/icon_close.png" alt=""></button>
+                    <a class="mini-card" href="#">
+                        <img id="miniCardImg" src="" alt="VALERUKI">
+                        <div class="mini-card__info">
+                            <h1 id="miniCardTitle"></h1>
+                            <h2 id="miniCardPrice"></h2>
+                        </div>
+                    </a>    
+                </div>
+            </template>    
+        </main>    
+
+        <footer class="footer-shopping">
+            <div><h2 class="footer-shopping__title">Total:</h2><span class="footer-shopping__price">$0</span></div>
+            <div class="footer-shopping__wraper">
+                <a id="btnWAShopping" type="button" class="footer-shopping__btn"><img src='./assets/icon_wa.svg' alt=''>Enviar por WhatsApp</a>            
+            </div>
+        </footer>
+    </div>
 </body>
 </html>
 

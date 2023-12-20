@@ -199,7 +199,7 @@ catalog = [
     "keywords": "SET DE PULSERAS 021",
     "category": 1, 
     "price" : "$36.000", 
-    "image": ["021-01.jpg", "021-02.jpg", "021-03.jpg"],
+    "image": ["021-01.jpg", "021-02.jpg", "021-03.jpg", "021-04.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "022", 
@@ -1016,14 +1016,14 @@ catalog = [
     "image": ["111-01.jpg", "111-02.jpg"],
     "description": "<b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
-    {"id": "112", 
-    "addi": false,
-    "title": "PULSERA", 
-    "keywords": "PULSERA COLORES PULSERA ARCO IRIS 112",
-    "category": 1, 
-    "price" : "$20.000", 
-    "image": ["112-01.jpg"],
-    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano."}, 
+    // {"id": "112", 
+    // "addi": false,
+    // "title": "PULSERA", 
+    // "keywords": "PULSERA COLORES PULSERA ARCO IRIS 112",
+    // "category": 1, 
+    // "price" : "$20.000", 
+    // "image": ["112-01.jpg"],
+    // "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano."}, 
     
     {"id": "113", 
     "addi": false,
@@ -1112,7 +1112,7 @@ catalog = [
     "keywords": "PULSERA 2 FILAS 122",
     "category": 1, 
     "price" : "$20.000", 
-    "image": ["122-01.jpg"],
+    "image": ["122-01.jpg", "112-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."}, 
 
     {"id": "123", 
@@ -1210,7 +1210,7 @@ catalog = [
     "title": "PULSERA OJO TURCO", 
     "keywords": "PULSERA rombo ojo turco 133",
     "category": 1, 
-    "price" : "$27.000", 
+    "price" : "$30.000", 
     "image": ["133-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano."}, 
 
@@ -1399,7 +1399,7 @@ catalog = [
     "title": "PULSERA", 
     "keywords": "PULSERA 154 mariposa",
     "category": 1, 
-    "price" : "$17.000", 
+    "price" : "$18.000", 
     "image": ["154-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Otros hilos."}, 
 
@@ -1500,7 +1500,7 @@ catalog = [
     "title": "PULSERA SAGRADO CORAZÓN CON ORO LAMINADO", 
     "keywords": "PULSERA SAGRADO CORAZoN con oro laminado 165",
     "category": 1, 
-    "price" : "$38.000", 
+    "price" : "$33.000", 
     "image": ["165-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado.<br>Dos (2) balines de oro laminado tamaño n3mm."},    
 
@@ -1519,7 +1519,7 @@ catalog = [
     "keywords": "PULSERA CRUZ 167",
     "category": 1, 
     "price" : "$20.000", 
-    "image": ["167-01.jpg"],
+    "image": ["167-01.jpg", "167-02.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."},     
 
     {"id": "168", 
@@ -1737,7 +1737,7 @@ catalog = [
     "keywords": "SET DE CADENA Y ARETES CON INICIAL 200 letra y",
     "category": 2, 
     "price" : "$43.000", 
-    "image": ["200-01.jpg", "200-02.jpg", "200-03.jpg", "200-04.jpg"],
+    "image": ["200-02.jpg", "200-03.jpg", "200-04.jpg", "200-05.jpg", "200-06.jpg"],
     "description": "Se elaboran las iniciales de nombres que el cliente solicite. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Topos de acero dorado.<br>Cadena de acero dorado, (los tejidos varian según disponibilidad)."},
 
     {"id": "201", 
@@ -1781,7 +1781,7 @@ catalog = [
     "title": "PULSERA CON INICIAL", 
     "keywords": "PULSERA CON INICIAL 205",
     "category": 1, 
-    "price" : "$17.000", 
+    "price" : "$18.000", 
     "image": ["205-01.jpg", "205-02.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano.<br>Letra nácar.<br>Piedra natural: Rodonita"},
 
@@ -1838,6 +1838,24 @@ catalog = [
     "price" : "$58.000", 
     "image": ["211-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano.<br>Hilo con brillo."},
+
+    {"id": "212", 
+    "addi": false,
+    "title": "PULSERA", 
+    "keywords": "pulsera hombre caballero 212",
+    "category": 7, 
+    "price" : "$37.000", 
+    "image": ["212-01.jpg"],
+    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."},
+
+    {"id": "213", 
+    "addi": false,
+    "title": "JOYAS PARA COMPARTIR", 
+    "keywords": "JOYAS PARA COMPARTIR 213 roja pareja",
+    "category": 10, 
+    "price" : "$80.000", 
+    "image": ["213-01.jpg"],
+    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano.<br>Dos(2) balines de oro 18 quilates tamaño n3mm."},
 
 ]
 
