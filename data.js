@@ -1492,9 +1492,7 @@ catalog = [
     "price" : "$37.000", 
     "image": ["164-01.jpg"],
     "description": "<b>Materiales:</b><br> Mostacilla japonesa.<br>Cadena de acero dorado, medida aproximada de 40cm. (Los tejidos varian según disponibilidad)."}, 
-
-    // nuevos
-
+    
     {"id": "165", 
     "addi": false,
     "title": "PULSERA SAGRADO CORAZÓN CON ORO LAMINADO", 
@@ -1856,6 +1854,24 @@ catalog = [
     "price" : "$80.000", 
     "image": ["213-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano.<br>Dos(2) balines de oro 18 quilates tamaño n3mm."},
+
+    {"id": "214", 
+    "addi": false,
+    "title": "SET DE PULSERAS", 
+    "keywords": "SET DE PULSERAS 214 hombre caballero",
+    "category": 7, 
+    "price" : "$59.000", 
+    "image": ["214-01.jpg"],
+    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado.<br>Cuero natural."},
+
+    {"id": "215", 
+    "addi": false,
+    "title": "JOYAS PARA COMPARTIR", 
+    "keywords": "JOYAS PARA COMPARTIR 215 letras negro",
+    "category": 10, 
+    "price" : "$60.000", 
+    "image": ["215-01.jpg"],
+    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca.<br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado."},
 
 ]
 
