@@ -1590,7 +1590,7 @@ catalog = [
     "category": 1, 
     "price" : "$148.000", 
     "image": ["175-01.jpg", "175-02.jpg"],
-    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b>Mostacilla japonesa.<br>Hilos con brillo.<br>Hilo encerado. <br>Tres (3) balines de oro 18 quilates tamaño N4mm."},  
+    "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilos con brillo.<br>Hilo encerado. <br>Tres (3) balines de oro 18 quilates tamaño N4mm."},  
 
     {"id": "176", 
     "addi": false,
