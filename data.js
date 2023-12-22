@@ -1453,7 +1453,7 @@ catalog = [
     "title": "PULSERA SAGRADO CORAZÓN", 
     "keywords": "PULSERA 160 sagrado corazon",
     "category": 7, 
-    "price" : "$32.000", 
+    "price" : "$30.000", 
     "image": ["160-01.jpg", "160-02.jpg", "160-03.jpg", "160-04.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo coreano. <br>Piedras naturales."}, 
 
@@ -1824,7 +1824,7 @@ catalog = [
     "title": "SET DE PULSERA CON ORO 18KT", 
     "keywords": "SET DE PULSERA CON ORO 18KT hombre caballero 210",
     "category": 7, 
-    "price" : "$193.000", 
+    "price" : "$191.000", 
     "image": ["210-01.jpg"],
     "description": "Sistema de cierre con nudo corredizo para graduar a tu muñeca. <br><br><b>Materiales:</b><br>Mostacilla japonesa.<br>Hilo encerado.<br>Tres (3) balin de oro 18 quilates tamaño N5mm."},
 
