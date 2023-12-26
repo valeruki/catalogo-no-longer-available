@@ -1,0 +1,1 @@
+window.open('https://catalog-valeruki.vercel.app/', '_self')
